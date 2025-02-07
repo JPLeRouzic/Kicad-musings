@@ -13,3 +13,4 @@ https://www.5volts.ch/pages/pdp11hack/
 This is a tentative to use the 16 bits version of the famous 6502 microprocessor in a sort of KIM board.
 Needless to say, I reused the famous work of Eduardo Casino
 https://github.com/eduardocasino/kim-1
+But I didn't finished this project.
