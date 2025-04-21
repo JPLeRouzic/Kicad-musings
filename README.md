@@ -10,12 +10,12 @@ Later I will probably take inspiration from the work of Peter Schranz:
 https://www.5volts.ch/pages/pdp11hack/
 
 # Kim 65C816
-This is a tentative to use the 16 bits version of the famous 6502 microprocessor in a sort of KIM board.
+This is a tentative to use the 16-bit version of the famous 6502 microprocessor in a sort of KIM board similar to the SYM-1.
 Needless to say, I reused the famous work of Eduardo Casino
 https://github.com/eduardocasino/kim-1
 But I didn't finish this project.
 
 # UKNC
 I have a UKNC computer, unfortunately non-functional. My goals are either:
-- To reuse the PDP-11 clone CPU and make a little boad in the spirit of the PDP-11/Hack
-- Or to make a PCB to would replace the faulty one and use Western components
+- To reuse the two PDP-11 clone CPUs and make a little boad in the spirit of the PDP-11/Hack
+- Or to make a PCB that would replace the faulty one and use Western components
