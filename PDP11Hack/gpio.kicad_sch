@@ -5202,7 +5202,7 @@
 		)
 		(uuid "f70002d0-a2d5-49f8-a7af-69ef3ef39655")
 	)
-	(hierarchical_label "~{WEU}"
+	(hierarchical_label "~{WEL}"
 		(shape passive)
 		(at 77.47 182.88 180)
 		(effects
@@ -5233,7 +5233,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "07e747e9-dc1c-481e-9181-558f1e315af0")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR037"
 			(at 120.65 182.88 0)
 			(effects
 				(font
@@ -5282,7 +5282,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/d34c939f-f534-42f5-b646-45de02ff21f9"
-					(reference "#PWR039")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -5485,7 +5485,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10aee7f6-2422-403d-97ca-ec9ad0ee8591")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR038"
 			(at 138.43 115.57 0)
 			(effects
 				(font
@@ -5534,7 +5534,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/d34c939f-f534-42f5-b646-45de02ff21f9"
-					(reference "#PWR040")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -5549,7 +5549,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2bcc037f-5b7e-40be-a14c-f1dd77ad1df5")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR040"
 			(at 264.16 156.21 0)
 			(effects
 				(font
@@ -5598,7 +5598,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/d34c939f-f534-42f5-b646-45de02ff21f9"
-					(reference "#PWR042")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -5613,7 +5613,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "41401fa1-3028-4604-b0a0-dd713b2bbb20")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR039"
 			(at 264.16 146.05 0)
 			(effects
 				(font
@@ -5662,7 +5662,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/d34c939f-f534-42f5-b646-45de02ff21f9"
-					(reference "#PWR041")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -5832,7 +5832,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7c690479-6e80-40f9-87a4-35bc3caeb20e")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR036"
 			(at 120.65 152.4 0)
 			(effects
 				(font
@@ -5881,7 +5881,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/d34c939f-f534-42f5-b646-45de02ff21f9"
-					(reference "#PWR038")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)

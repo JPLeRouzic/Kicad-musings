@@ -4193,7 +4193,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02fa3cc5-792a-4e6a-9599-873c2e2e7532")
-		(property "Reference" "U28"
+		(property "Reference" "U24"
 			(at 209.1533 20.32 0)
 			(effects
 				(font
@@ -4337,7 +4337,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/8011c564-4a76-4fb5-92ec-d9b18aa7105f"
-					(reference "U28")
+					(reference "U24")
 					(unit 1)
 				)
 			)
@@ -4352,7 +4352,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "35030bdf-51fa-4790-8c43-734a5495e8b3")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR080"
 			(at 207.01 158.75 0)
 			(effects
 				(font
@@ -4402,7 +4402,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/8011c564-4a76-4fb5-92ec-d9b18aa7105f"
-					(reference "#PWR079")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -4417,7 +4417,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4825b37d-3313-4526-901c-680d29dde446")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR078"
 			(at 204.47 97.79 0)
 			(effects
 				(font
@@ -4467,7 +4467,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/8011c564-4a76-4fb5-92ec-d9b18aa7105f"
-					(reference "#PWR077")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -4550,7 +4550,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6306105b-1cc1-4e94-beb3-1b5f005ab78a")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR076"
 			(at 77.47 186.69 0)
 			(effects
 				(font
@@ -4599,7 +4599,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/8011c564-4a76-4fb5-92ec-d9b18aa7105f"
-					(reference "#PWR073")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -4614,7 +4614,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "69fcd1d4-4cb9-44c1-a4a0-c2b84e356510")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR075"
 			(at 77.47 171.45 0)
 			(effects
 				(font
@@ -4663,7 +4663,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/8011c564-4a76-4fb5-92ec-d9b18aa7105f"
-					(reference "#PWR072")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -4747,7 +4747,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74664c58-8742-407b-995e-d2597dd8d825")
-		(property "Reference" "U29"
+		(property "Reference" "U25"
 			(at 209.1533 92.71 0)
 			(effects
 				(font
@@ -4891,7 +4891,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/8011c564-4a76-4fb5-92ec-d9b18aa7105f"
-					(reference "U29")
+					(reference "U25")
 					(unit 1)
 				)
 			)
@@ -4975,7 +4975,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8092432d-8e61-4a70-8e71-1b08f4f669e6")
-		(property "Reference" "U21"
+		(property "Reference" "U17"
 			(at 87.63 62.23 0)
 			(effects
 				(font
@@ -5068,7 +5068,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/8011c564-4a76-4fb5-92ec-d9b18aa7105f"
-					(reference "U21")
+					(reference "U17")
 					(unit 2)
 				)
 			)
@@ -5151,7 +5151,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a4b50046-e596-4004-a155-ae1bcb3c33ee")
-		(property "Reference" "U21"
+		(property "Reference" "U17"
 			(at 138.684 159.512 0)
 			(effects
 				(font
@@ -5194,25 +5194,25 @@
 			)
 		)
 		(pin "1"
-			(uuid "bfe92cfc-2804-48c7-8b79-d0cca1e31f8d")
+			(uuid "bfe92cfc-2804-48c7-8b79-d0cca1e31f8e")
 		)
 		(pin "2"
-			(uuid "03602fb1-23ae-407a-83b0-29e1445181d1")
+			(uuid "03602fb1-23ae-407a-83b0-29e1445181d2")
 		)
 		(pin "3"
-			(uuid "5890718f-7e85-41c5-bd20-907ef49822b8")
+			(uuid "5890718f-7e85-41c5-bd20-907ef49822b9")
 		)
 		(pin "4"
-			(uuid "751f5a6f-8fc4-480f-b5df-da6ba27e4d95")
+			(uuid "751f5a6f-8fc4-480f-b5df-da6ba27e4d96")
 		)
 		(pin "5"
-			(uuid "3b00f3d2-8ab4-4c55-ad11-81c080c1dca4")
+			(uuid "3b00f3d2-8ab4-4c55-ad11-81c080c1dca5")
 		)
 		(pin "6"
-			(uuid "f49f7232-8b0c-4c23-8453-d1931b2cc159")
+			(uuid "f49f7232-8b0c-4c23-8453-d1931b2cc15a")
 		)
 		(pin "7"
-			(uuid "3beede9c-32ac-41c1-8115-63a1258a7303")
+			(uuid "3beede9c-32ac-41c1-8115-63a1258a7304")
 		)
 		(pin "10"
 			(uuid "94e5ae7b-0bfb-4579-a432-e43faf7e60bc")
@@ -5236,15 +5236,15 @@
 			(uuid "29929aa3-0775-43a9-8ac9-7327e808aa70")
 		)
 		(pin "16"
-			(uuid "1b0bc7d1-94e5-4c54-abf0-f1ab51227aea")
+			(uuid "1b0bc7d1-94e5-4c54-abf0-f1ab51227aeb")
 		)
 		(pin "8"
-			(uuid "0ffc5bde-f186-4b5b-b5ab-38c412fea711")
+			(uuid "0ffc5bde-f186-4b5b-b5ab-38c412fea712")
 		)
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/8011c564-4a76-4fb5-92ec-d9b18aa7105f"
-					(reference "U21")
+					(reference "U17")
 					(unit 3)
 				)
 			)
@@ -5259,7 +5259,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b07fa2ac-2add-4993-aa99-88c400ae8aaa")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR079"
 			(at 207.01 86.36 0)
 			(effects
 				(font
@@ -5309,7 +5309,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/8011c564-4a76-4fb5-92ec-d9b18aa7105f"
-					(reference "#PWR078")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -5392,7 +5392,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c84e363e-844f-458f-bbae-79eaea8fc4f1")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR077"
 			(at 204.47 25.4 0)
 			(effects
 				(font
@@ -5442,7 +5442,7 @@
 		(instances
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/8011c564-4a76-4fb5-92ec-d9b18aa7105f"
-					(reference "#PWR076")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
