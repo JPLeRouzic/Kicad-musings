@@ -21,6 +21,8 @@ This version stems from Brent Hilpert original work, but has some extensions:
 - It has 5 switches to test/learn to single-step the memory accesses, the HALT, interrupts, or make a reset
 -The boot configuration could be set up with micro-switches
 
+For the thrill seeker: You can make PCB, but I never tried it! Please tell me the outcome.
+
 
 Beware I am an electronic, DEC and Kicad noob. Lots of dragons inside!
 
