@@ -6,6 +6,8 @@ Then Len Bayles also built a minimal PDP-11 around the J-11, a PDP-11 microproce
 https://www.chronworks.com/J11/
 
 Several people have since produced various versions of this PDP-11 hack, including for S-100 bus!
+http://s100computers.com/My%20System%20Pages/PDP11%20Board/PDP11%20Board.htm
+
 Each has some variation, improvement, and/or additional features.
 
 I took a lot of inspiration from the work of Peter Schranz:
