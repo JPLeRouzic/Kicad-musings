@@ -3529,8 +3529,12 @@
 		)
 		(symbol "power:GND"
 			(power)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3606,8 +3610,7 @@
 				(pin power_in line
 					(at 0 0 270)
 					(length 0)
-					(hide yes)
-					(name "GND"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5989,7 +5992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 60.96 86.36 0)
 			(effects
 				(font
@@ -6278,7 +6281,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 111.76 116.84 0)
 			(effects
 				(font
@@ -6644,7 +6647,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 44.45 124.46 0)
 			(effects
 				(font
@@ -6814,10 +6817,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4f64b726-0535-475f-8458-c6ee6bbadb8c")
 		(property "Reference" "R1000_5"
-			(at 181.61 88.9 0)
+			(at 179.07 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6834,7 +6836,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 177.292 90.17 90)
 			(effects
 				(font
@@ -7396,7 +7398,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 134.62 175.26 0)
 			(effects
 				(font
@@ -7423,46 +7425,46 @@
 			)
 		)
 		(pin "1"
-			(uuid "13c24ba8-556b-4d50-88fc-42d83d804d9e")
+			(uuid "13c24ba8-556b-4d50-88fc-42d83d804d9f")
 		)
 		(pin "2"
-			(uuid "d1299214-473b-43cc-b1b2-d19d83e249bf")
+			(uuid "d1299214-473b-43cc-b1b2-d19d83e249c0")
 		)
 		(pin "3"
-			(uuid "2479e962-361b-41ce-8393-265f7e9107b4")
+			(uuid "2479e962-361b-41ce-8393-265f7e9107b5")
 		)
 		(pin "4"
-			(uuid "204c4bf2-ecca-49c3-b80d-1e559d9f3ebc")
+			(uuid "204c4bf2-ecca-49c3-b80d-1e559d9f3ebd")
 		)
 		(pin "5"
-			(uuid "c8a7a255-41f1-4149-9d50-70aa9c1a7372")
+			(uuid "c8a7a255-41f1-4149-9d50-70aa9c1a7373")
 		)
 		(pin "6"
-			(uuid "da80686e-164a-4775-850a-c94622417943")
+			(uuid "da80686e-164a-4775-850a-c94622417944")
 		)
 		(pin "10"
-			(uuid "8ad51c80-fba5-4da7-8246-24952e7a730e")
+			(uuid "8ad51c80-fba5-4da7-8246-24952e7a730f")
 		)
 		(pin "8"
-			(uuid "166d5f16-d2a0-4df6-a55d-a874c94bb637")
+			(uuid "166d5f16-d2a0-4df6-a55d-a874c94bb638")
 		)
 		(pin "9"
-			(uuid "36f6f738-0d52-4d8a-97bc-b0b3cc9d2ae7")
+			(uuid "36f6f738-0d52-4d8a-97bc-b0b3cc9d2ae8")
 		)
 		(pin "11"
-			(uuid "f1b785dd-059c-4a9f-b28b-75c9d415d97b")
+			(uuid "f1b785dd-059c-4a9f-b28b-75c9d415d97c")
 		)
 		(pin "12"
-			(uuid "65e28f11-917b-4402-8fd1-7df33dba90d5")
+			(uuid "65e28f11-917b-4402-8fd1-7df33dba90d6")
 		)
 		(pin "13"
-			(uuid "c41123c1-9b71-4a9e-9de6-cacec57d46a8")
+			(uuid "c41123c1-9b71-4a9e-9de6-cacec57d46a9")
 		)
 		(pin "14"
-			(uuid "18fdafe1-3777-437c-a1f7-16602ae4961c")
+			(uuid "18fdafe1-3777-437c-a1f7-16602ae4961d")
 		)
 		(pin "7"
-			(uuid "b7f80877-2f0b-4d08-8b3e-30ae410fb936")
+			(uuid "b7f80877-2f0b-4d08-8b3e-30ae410fb937")
 		)
 		(instances
 			(project "JPLR J11 Hack"
@@ -7826,10 +7828,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a563d4cf-0015-44f6-9b14-b427c6f9c881")
 		(property "Reference" "R1000_1"
-			(at 166.37 88.9 0)
+			(at 163.83 84.074 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7846,7 +7847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 162.052 90.17 90)
 			(effects
 				(font
@@ -7925,7 +7926,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 83.82 119.38 0)
 			(effects
 				(font
@@ -8280,7 +8281,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 60.96 68.58 0)
 			(effects
 				(font
@@ -8462,10 +8463,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d3597611-0395-4c15-9f84-a3af429026bd")
 		(property "Reference" "R1000_2"
-			(at 170.18 88.9 0)
+			(at 167.894 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8482,7 +8482,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 165.862 90.17 90)
 			(effects
 				(font
@@ -8543,10 +8543,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dacc933c-786c-4e54-b64e-9c609b161463")
 		(property "Reference" "R1000_3"
-			(at 173.99 88.9 0)
+			(at 171.45 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8563,7 +8562,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 169.672 90.17 90)
 			(effects
 				(font
@@ -8642,7 +8641,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 83.82 101.6 0)
 			(effects
 				(font
@@ -8753,7 +8752,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 114.3 175.26 0)
 			(effects
 				(font
@@ -8935,10 +8934,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e5b8878c-05f4-4e91-8c06-d76d056ef9da")
 		(property "Reference" "R1000_4"
-			(at 177.8 88.9 0)
+			(at 175.768 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8955,7 +8953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 173.482 90.17 90)
 			(effects
 				(font
