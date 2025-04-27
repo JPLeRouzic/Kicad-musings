@@ -6471,9 +6471,9 @@
 		)
 		(uuid "aa20eb17-04a1-4c71-8d47-cbd195b0fc78")
 	)
-	(text "Output Data port is 3FFF76H\nOutput Status port is 3FFF74H (bit 7)\nInput Data port is 3FFF72H\nConsole Input Status port is 3FFF70H (bit 7)"
+	(text "Any and all addresses in the range \n(3F)E000H to (3F)FFFFH are understood \nto access I/O ports by the J11.\n\nWhen the J11 first powers up, only \nthe address range 0H to FFFFH is available,\nSo the decode mechanism uses only A0->A15.\nnLBS_IO is also used to managed the MMU/non MMU cases.\n\nOutput Data port is 3FFF76H\nOutput Status port is 3FFF74H (bit 7)\nInput Data port is 3FFF72H\nConsole Input Status port is 3FFF70H (bit 7)"
 		(exclude_from_sim no)
-		(at 19.05 29.21 0)
+		(at 21.844 213.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6505,18 +6505,6 @@
 		(uuid "fbe4aebf-451a-4011-9d06-a873e3bec547")
 	)
 	(junction
-		(at 222.25 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "094e78de-04a9-4e97-bf72-c4361d112fc5")
-	)
-	(junction
-		(at 298.45 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "096039da-8a0b-4c5d-ab88-9128af9c6031")
-	)
-	(junction
 		(at 158.75 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6533,12 +6521,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1fcf4f2e-f0ee-43aa-b7e0-f6c9361cd9b9")
-	)
-	(junction
-		(at 146.05 162.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "338d03e3-da33-401d-9d14-12c2b8a25e83")
 	)
 	(junction
 		(at 114.3 45.72)
@@ -6559,6 +6541,12 @@
 		(uuid "3b11bd40-e219-49a2-bd63-6d35109f52e5")
 	)
 	(junction
+		(at 185.42 168.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "41cafa43-5c0a-4971-934d-fe6e0e8d587f")
+	)
+	(junction
 		(at 250.19 262.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6571,10 +6559,10 @@
 		(uuid "4b5a5fa5-68d3-4bb5-a995-b7a5437ef127")
 	)
 	(junction
-		(at 297.18 140.97)
+		(at 355.6 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4bffa78a-2caf-4df0-80a6-46d0dd49c652")
+		(uuid "4d00aa03-1327-482d-84f1-f4153a5d520d")
 	)
 	(junction
 		(at 158.75 59.69)
@@ -6625,12 +6613,6 @@
 		(uuid "86336723-d800-4452-a00b-1db4152805d1")
 	)
 	(junction
-		(at 90.17 102.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8bb73093-4a22-4c64-80f2-65fb074abc4a")
-	)
-	(junction
 		(at 250.19 270.51)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6655,24 +6637,6 @@
 		(uuid "9ad59d7e-380c-446a-b4cd-220f39d0b575")
 	)
 	(junction
-		(at 196.85 279.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a3796d26-1dd9-4969-83d1-e7faf4acb5b2")
-	)
-	(junction
-		(at 222.25 254)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "aea61d9b-b1a4-4f1a-b96d-e88da2421127")
-	)
-	(junction
-		(at 297.18 147.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b3288c75-a2f2-46b5-b22f-7030813991e8")
-	)
-	(junction
 		(at 29.21 243.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6683,12 +6647,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bfb9570d-4f99-4b79-9598-245da21d4294")
-	)
-	(junction
-		(at 196.85 254)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c9ed6928-2ced-4fca-8fb5-04fdd53c0457")
 	)
 	(junction
 		(at 29.21 254)
@@ -6741,10 +6699,6 @@
 		(uuid "29aa1f94-3009-4fee-9025-5075b03f0441")
 	)
 	(no_connect
-		(at 356.87 138.43)
-		(uuid "2aba16e2-c516-46fc-8a02-15c09fd052c9")
-	)
-	(no_connect
 		(at 236.22 140.97)
 		(uuid "354de13b-f655-4d09-b99c-9f483b5d775a")
 	)
@@ -6773,10 +6727,6 @@
 		(uuid "a62432b8-e896-4dc4-b5f1-d9a2b3dd42f3")
 	)
 	(no_connect
-		(at 356.87 125.73)
-		(uuid "a9e98d16-d426-417f-a0ac-9cef6d7a0745")
-	)
-	(no_connect
 		(at 96.52 97.79)
 		(uuid "b1aede66-ec99-42a2-9244-61f9db8e4e59")
 	)
@@ -6791,10 +6741,6 @@
 	(no_connect
 		(at 45.72 241.3)
 		(uuid "c945114b-8453-41d5-a3a0-24362d85c8a2")
-	)
-	(no_connect
-		(at 356.87 133.35)
-		(uuid "d09057db-6194-4ed0-a165-023f6b7eead5")
 	)
 	(no_connect
 		(at 222.25 95.25)
@@ -6877,15 +6823,6 @@
 		(uuid "45d1bcd1-0b04-4440-85f4-1b475b9b3e01")
 	)
 	(bus_entry
-		(at 90.17 135.89)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4702d361-4110-48a0-9c8b-92ee6be2c81a")
-	)
-	(bus_entry
 		(at 33.02 59.69)
 		(size 2.54 2.54)
 		(stroke
@@ -6965,15 +6902,6 @@
 			(type default)
 		)
 		(uuid "a43e6dc1-8a67-4778-a423-3bc0eb379860")
-	)
-	(bus_entry
-		(at 90.17 135.89)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a70627f6-9046-4bc5-8137-02f300da903a")
 	)
 	(bus_entry
 		(at 90.17 83.82)
@@ -7084,15 +7012,15 @@
 		)
 		(uuid "002d2d56-5741-4098-b8c4-14871e93969d")
 	)
-	(bus
+	(wire
 		(pts
-			(xy 90.17 102.87) (xy 90.17 135.89)
+			(xy 276.86 135.89) (xy 293.37 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "016d7ec8-fcb1-47f6-8492-962705835c10")
+		(uuid "00381d53-fe9c-49c9-91ae-67e633daf5b3")
 	)
 	(bus
 		(pts
@@ -7196,13 +7124,23 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 147.32) (xy 297.18 148.59)
+			(xy 300.99 135.89) (xy 308.61 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "09e85dce-4fe1-4a37-805b-6dd243cbc5ad")
+		(uuid "09098355-ee7f-49cd-a1ff-b228cd35324d")
+	)
+	(wire
+		(pts
+			(xy 355.6 125.73) (xy 355.6 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bb067ed-7700-400c-81cf-bd718682f7b4")
 	)
 	(wire
 		(pts
@@ -7213,16 +7151,6 @@
 			(type default)
 		)
 		(uuid "0ceb56b8-61b5-4729-9e48-137df978b505")
-	)
-	(wire
-		(pts
-			(xy 297.18 148.59) (xy 298.45 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d7697db-76d3-45e4-af2a-65cf0d7ca21e")
 	)
 	(bus
 		(pts
@@ -7316,7 +7244,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 254) (xy 196.85 254)
+			(xy 167.64 254) (xy 237.49 254)
 		)
 		(stroke
 			(width 0)
@@ -7343,16 +7271,6 @@
 			(type default)
 		)
 		(uuid "1d7d2661-1136-4478-a1e9-7ff58540f34c")
-	)
-	(wire
-		(pts
-			(xy 294.64 154.94) (xy 350.52 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1da16ba8-dd20-4418-a72b-6701c45c7a5f")
 	)
 	(wire
 		(pts
@@ -7423,6 +7341,16 @@
 			(type default)
 		)
 		(uuid "23bab7bd-dc6e-4a15-8ff7-391cd98f2e5b")
+	)
+	(wire
+		(pts
+			(xy 300.99 143.51) (xy 322.58 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24231a4a-875d-4bad-bda5-0fb9b58e8cc2")
 	)
 	(wire
 		(pts
@@ -7706,33 +7634,13 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 140.97) (xy 297.18 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4535fa23-25dd-4b57-8248-8852f3e5d7d4")
-	)
-	(wire
-		(pts
-			(xy 284.48 130.81) (xy 284.48 138.43)
+			(xy 284.48 130.81) (xy 284.48 143.51)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "453f29c6-a744-497c-9e05-5ce03b86adc6")
-	)
-	(wire
-		(pts
-			(xy 276.86 140.97) (xy 297.18 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4658e6eb-cb32-40fd-8634-a6a65eb433f7")
 	)
 	(wire
 		(pts
@@ -7746,13 +7654,13 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 128.27) (xy 356.87 128.27)
+			(xy 280.67 152.4) (xy 293.37 152.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "46840035-5b46-4cc9-bd24-07faa9633b61")
+		(uuid "47dd2c41-de93-4623-ba32-f74ea0277668")
 	)
 	(wire
 		(pts
@@ -7794,6 +7702,16 @@
 		)
 		(uuid "4b075a3f-9748-4c86-8881-c9daa9d08e1b")
 	)
+	(wire
+		(pts
+			(xy 284.48 128.27) (xy 306.07 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c74a08e-dc17-4502-9fbf-a135e5dd1295")
+	)
 	(bus
 		(pts
 			(xy 33.02 72.39) (xy 33.02 74.93)
@@ -7803,6 +7721,26 @@
 			(type default)
 		)
 		(uuid "5145cb2a-3056-40b0-927e-bd3b72710862")
+	)
+	(wire
+		(pts
+			(xy 356.87 125.73) (xy 355.6 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "518aab6b-24ac-4361-9fc3-a05fa49f9e07")
+	)
+	(wire
+		(pts
+			(xy 308.61 133.35) (xy 356.87 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "555bcc2a-3771-4897-945e-d06a130dfa3c")
 	)
 	(wire
 		(pts
@@ -7954,16 +7892,6 @@
 		)
 		(uuid "61138d3c-bc14-4620-9d93-c6cca27652f2")
 	)
-	(wire
-		(pts
-			(xy 297.18 147.32) (xy 298.45 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6165ee22-1cc2-4dd1-98ff-eef2b1875c18")
-	)
 	(bus
 		(pts
 			(xy 33.02 54.61) (xy 33.02 57.15)
@@ -8046,6 +7974,16 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 140.97) (xy 280.67 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ae096fb-c6a9-4827-9bfb-9a8f67c9eb28")
+	)
+	(wire
+		(pts
 			(xy 227.33 55.88) (xy 227.33 53.34)
 		)
 		(stroke
@@ -8083,6 +8021,16 @@
 			(type default)
 		)
 		(uuid "6c2401ca-1601-4e40-9cd2-7c66ebffed07")
+	)
+	(wire
+		(pts
+			(xy 355.6 128.27) (xy 356.87 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "702df244-09f8-4b74-bb20-50bd2f66b7c3")
 	)
 	(wire
 		(pts
@@ -8186,6 +8134,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 165.1) (xy 185.42 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "752c38d5-9d59-4b57-9e93-42235ad00b3c")
+	)
+	(wire
+		(pts
 			(xy 144.78 107.95) (xy 144.78 116.84)
 		)
 		(stroke
@@ -8286,16 +8244,6 @@
 	)
 	(wire
 		(pts
-			(xy 284.48 128.27) (xy 349.25 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e9c54c3-ca84-43a1-9eb0-1a5451efa004")
-	)
-	(wire
-		(pts
 			(xy 85.09 68.58) (xy 85.09 118.11)
 		)
 		(stroke
@@ -8356,6 +8304,16 @@
 	)
 	(wire
 		(pts
+			(xy 356.87 135.89) (xy 314.96 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84edc662-fe87-4564-bad0-c715d6fe1a72")
+	)
+	(wire
+		(pts
 			(xy 135.89 158.75) (xy 153.67 158.75)
 		)
 		(stroke
@@ -8363,6 +8321,16 @@
 			(type default)
 		)
 		(uuid "857a4ae2-8835-4542-878e-ad380ac0362b")
+	)
+	(wire
+		(pts
+			(xy 322.58 143.51) (xy 322.58 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85def9e0-1a95-47f4-9deb-c033865da986")
 	)
 	(wire
 		(pts
@@ -8396,16 +8364,6 @@
 	)
 	(wire
 		(pts
-			(xy 297.18 140.97) (xy 356.87 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d28f497-344b-406d-854b-649ce2ab973e")
-	)
-	(wire
-		(pts
 			(xy 161.29 99.06) (xy 161.29 101.6)
 		)
 		(stroke
@@ -8416,7 +8374,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 168.91) (xy 328.93 168.91)
+			(xy 146.05 168.91) (xy 185.42 168.91)
 		)
 		(stroke
 			(width 0)
@@ -8566,6 +8524,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 165.1) (xy 185.42 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c15b17d-ef57-4e3f-8469-1459eee84ccc")
+	)
+	(wire
+		(pts
 			(xy 92.71 81.28) (xy 96.52 81.28)
 		)
 		(stroke
@@ -8586,16 +8554,6 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 138.43) (xy 294.64 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c935529-7a13-4347-b52e-35b8541b0779")
-	)
-	(wire
-		(pts
 			(xy 144.78 124.46) (xy 142.24 124.46)
 		)
 		(stroke
@@ -8613,16 +8571,6 @@
 			(type default)
 		)
 		(uuid "9f7e0c61-97cd-4bac-83cd-e2a82bf7a64f")
-	)
-	(wire
-		(pts
-			(xy 284.48 138.43) (xy 294.64 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a12aa09e-3e1a-45c1-9262-0033f66775a3")
 	)
 	(wire
 		(pts
@@ -8656,16 +8604,6 @@
 	)
 	(wire
 		(pts
-			(xy 298.45 147.32) (xy 298.45 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3e4d6fa-4fe9-4b8c-a1b3-4bffaff7b235")
-	)
-	(wire
-		(pts
 			(xy 149.86 107.95) (xy 144.78 107.95)
 		)
 		(stroke
@@ -8693,6 +8631,16 @@
 			(type default)
 		)
 		(uuid "a8e879f7-69eb-4e67-a0ee-809cc3a2814a")
+	)
+	(wire
+		(pts
+			(xy 313.69 128.27) (xy 349.25 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a91500f3-5e93-45e3-922d-2438453fa339")
 	)
 	(wire
 		(pts
@@ -8776,13 +8724,13 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 162.56) (xy 146.05 162.56)
+			(xy 308.61 135.89) (xy 308.61 133.35)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b6656237-6584-40e2-a737-6fa07425984d")
+		(uuid "b488bc19-d488-40c1-916d-c977299896a9")
 	)
 	(wire
 		(pts
@@ -8816,7 +8764,17 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 279.4) (xy 196.85 279.4)
+			(xy 322.58 138.43) (xy 356.87 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b71b6df7-f68b-4148-8eaf-20bcab154381")
+	)
+	(wire
+		(pts
+			(xy 167.64 279.4) (xy 237.49 279.4)
 		)
 		(stroke
 			(width 0)
@@ -8926,16 +8884,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 162.56) (xy 146.05 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c20b34ec-dd52-486b-bafd-528ea1338035")
-	)
-	(wire
-		(pts
 			(xy 168.91 144.78) (xy 175.26 144.78)
 		)
 		(stroke
@@ -8976,16 +8924,6 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 254) (xy 222.25 254)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c32d1047-e034-4af5-bf8f-ca4017b3bc5a")
-	)
-	(wire
-		(pts
 			(xy 92.71 91.44) (xy 96.52 91.44)
 		)
 		(stroke
@@ -9023,6 +8961,16 @@
 			(type default)
 		)
 		(uuid "c6c6511f-9789-40d1-b03d-fcc0c2bc5bd8")
+	)
+	(wire
+		(pts
+			(xy 355.6 128.27) (xy 355.6 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c77a0d85-438c-4909-8351-b45590cda043")
 	)
 	(wire
 		(pts
@@ -9076,16 +9024,6 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 279.4) (xy 222.25 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca422da3-5172-44b1-9ab8-f1fdabcbec5d")
-	)
-	(wire
-		(pts
 			(xy 189.23 95.25) (xy 201.93 95.25)
 		)
 		(stroke
@@ -9123,6 +9061,16 @@
 			(type default)
 		)
 		(uuid "cd2ee61d-fdcb-4525-a5b3-2c50540b5e57")
+	)
+	(wire
+		(pts
+			(xy 355.6 140.97) (xy 356.87 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd818b4c-a775-4c9d-a473-7956fb0e71b8")
 	)
 	(wire
 		(pts
@@ -9196,16 +9144,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 138.43) (xy 92.71 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d54a2bca-35ce-44fe-99ec-b2048c5cb4d1")
-	)
-	(wire
-		(pts
 			(xy 223.52 80.01) (xy 223.52 55.88)
 		)
 		(stroke
@@ -9223,6 +9161,16 @@
 			(type default)
 		)
 		(uuid "d712b6c3-155a-416f-a857-e6a9e60e1de1")
+	)
+	(wire
+		(pts
+			(xy 300.99 152.4) (xy 314.96 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7b6a4a5-15c9-42b7-aeaf-8b956e329430")
 	)
 	(wire
 		(pts
@@ -9263,6 +9211,16 @@
 			(type default)
 		)
 		(uuid "d999cb61-d151-46d2-93be-370092e75062")
+	)
+	(wire
+		(pts
+			(xy 280.67 140.97) (xy 280.67 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9d6d852-c3f8-4e7a-896e-56446aead529")
 	)
 	(bus
 		(pts
@@ -9376,16 +9334,6 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 279.4) (xy 237.49 279.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "deff554c-1b16-4cd0-b803-c717c2516410")
-	)
-	(wire
-		(pts
 			(xy 153.67 67.31) (xy 153.67 74.93)
 		)
 		(stroke
@@ -9496,13 +9444,23 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 162.56) (xy 146.05 152.4)
+			(xy 146.05 152.4) (xy 146.05 168.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e8121af2-d63d-4789-9937-d802231d42ea")
+	)
+	(wire
+		(pts
+			(xy 185.42 168.91) (xy 328.93 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9bb5df0-cac4-479a-8748-0f8a70d053ba")
 	)
 	(wire
 		(pts
@@ -9516,6 +9474,16 @@
 	)
 	(wire
 		(pts
+			(xy 314.96 135.89) (xy 314.96 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecc9b2af-6bc6-42ec-a6b9-bad53f68d225")
+	)
+	(wire
+		(pts
 			(xy 139.7 85.09) (xy 144.78 85.09)
 		)
 		(stroke
@@ -9523,6 +9491,16 @@
 			(type default)
 		)
 		(uuid "ecfb0ff1-5358-40ed-816b-d318d7adafd4")
+	)
+	(wire
+		(pts
+			(xy 284.48 143.51) (xy 293.37 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed9314e6-079e-41fb-ab36-50351e40ec6b")
 	)
 	(wire
 		(pts
@@ -9646,16 +9624,6 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 135.89) (xy 356.87 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f849a0a7-db02-4912-872b-b6f64b33898b")
-	)
-	(wire
-		(pts
 			(xy 96.52 120.65) (xy 67.31 120.65)
 		)
 		(stroke
@@ -9673,26 +9641,6 @@
 			(type default)
 		)
 		(uuid "f96ae5bd-6faa-4c8c-aea5-1934ed4e5cbb")
-	)
-	(wire
-		(pts
-			(xy 222.25 254) (xy 237.49 254)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc5170f2-9f25-4535-8f99-57968c55c0ab")
-	)
-	(wire
-		(pts
-			(xy 350.52 154.94) (xy 350.52 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc7e2c5f-11fb-4b77-88d6-427f6c6c68af")
 	)
 	(wire
 		(pts
@@ -9744,7 +9692,7 @@
 		)
 		(uuid "0a4652ec-2b82-4d0b-bcee-135400aefa3c")
 	)
-	(label "D0"
+	(label "DAL00"
 		(at 96.52 91.44 180)
 		(effects
 			(font
@@ -9774,17 +9722,7 @@
 		)
 		(uuid "3326e31c-184e-460b-955d-719dc6609b92")
 	)
-	(label "D7"
-		(at 92.71 139.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "36a1c5dc-bcae-43b7-9123-6101d1238771")
-	)
-	(label "D5"
+	(label "DAL05"
 		(at 96.52 78.74 180)
 		(effects
 			(font
@@ -9794,7 +9732,7 @@
 		)
 		(uuid "409f07a5-651f-43bd-8ef0-241583f274e1")
 	)
-	(label "D1"
+	(label "DAL01"
 		(at 96.52 88.9 180)
 		(effects
 			(font
@@ -9814,7 +9752,7 @@
 		)
 		(uuid "4b3040b4-9d74-4c51-889d-821986f20ee7")
 	)
-	(label "D5"
+	(label "DAL05"
 		(at 140.97 82.55 0)
 		(effects
 			(font
@@ -9854,7 +9792,17 @@
 		)
 		(uuid "55f378ef-a356-461f-8d3d-4e38dc52cfa5")
 	)
-	(label "D4"
+	(label "DAL07"
+		(at 182.88 165.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "58eb0b3e-96b5-4387-aa38-2127031432aa")
+	)
+	(label "DAL04"
 		(at 140.97 85.09 0)
 		(effects
 			(font
@@ -9874,7 +9822,7 @@
 		)
 		(uuid "627d47d4-4e7c-4303-b00f-910d9ac5db10")
 	)
-	(label "D0"
+	(label "DAL00"
 		(at 140.97 95.25 0)
 		(effects
 			(font
@@ -9884,7 +9832,7 @@
 		)
 		(uuid "780bdd22-78ee-47e9-b2bd-c78d37de15fe")
 	)
-	(label "D6"
+	(label "DAL06"
 		(at 96.52 76.2 180)
 		(effects
 			(font
@@ -9904,7 +9852,7 @@
 		)
 		(uuid "88d5f78a-fe01-49aa-b8f1-2f3e48ce5745")
 	)
-	(label "D6"
+	(label "DAL06"
 		(at 140.97 80.01 0)
 		(effects
 			(font
@@ -9914,7 +9862,7 @@
 		)
 		(uuid "8c136e1b-3206-4025-9eb7-077a0ebe50b5")
 	)
-	(label "D7"
+	(label "DAL07"
 		(at 142.24 77.47 0)
 		(effects
 			(font
@@ -9954,7 +9902,7 @@
 		)
 		(uuid "a6740efa-8c37-48b6-b8dc-1a66dde73614")
 	)
-	(label "D7"
+	(label "DAL07"
 		(at 95.25 73.66 180)
 		(effects
 			(font
@@ -9964,7 +9912,7 @@
 		)
 		(uuid "aaf54740-771a-42f1-8e0f-8dd45c640b0a")
 	)
-	(label "D4"
+	(label "DAL04"
 		(at 96.52 81.28 180)
 		(effects
 			(font
@@ -9984,7 +9932,7 @@
 		)
 		(uuid "b340d588-b175-4798-9639-f70719b1a25c")
 	)
-	(label "D3"
+	(label "DAL03"
 		(at 140.97 87.63 0)
 		(effects
 			(font
@@ -10004,7 +9952,7 @@
 		)
 		(uuid "b5978523-7501-4bf7-af55-7c125239722e")
 	)
-	(label "D2"
+	(label "DAL02"
 		(at 96.52 86.36 180)
 		(effects
 			(font
@@ -10024,7 +9972,7 @@
 		)
 		(uuid "b98e5346-3f8f-4982-a643-bda14078dba5")
 	)
-	(label "D1"
+	(label "DAL01"
 		(at 140.97 92.71 0)
 		(effects
 			(font
@@ -10064,7 +10012,7 @@
 		)
 		(uuid "ed3a7727-dbc4-4238-ab47-55e7da6506fb")
 	)
-	(label "D3"
+	(label "DAL03"
 		(at 96.52 83.82 180)
 		(effects
 			(font
@@ -10074,7 +10022,7 @@
 		)
 		(uuid "ed662cfd-42c1-47a1-9bee-42bbf708d8cc")
 	)
-	(label "D2"
+	(label "DAL02"
 		(at 140.97 90.17 0)
 		(effects
 			(font
@@ -10282,7 +10230,7 @@
 		)
 		(uuid "7a000743-5f4f-4f4d-98b6-63ced955def0")
 	)
-	(hierarchical_label "D[0..15]"
+	(hierarchical_label "DAL[0..15]"
 		(shape bidirectional)
 		(at 68.58 102.87 180)
 		(effects
@@ -10318,13 +10266,13 @@
 	(symbol
 		(lib_id "74xx:7400")
 		(at 38.1 256.54 0)
-		(unit 4)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "0c4e4bd3-fbce-4727-aab7-90132013da03")
-		(property "Reference" "U11_2"
+		(property "Reference" "U11_?"
 			(at 38.0917 247.65 0)
 			(effects
 				(font
@@ -10409,10 +10357,83 @@
 			(uuid "b7f80877-2f0b-4d08-8b3e-30ae410fb935")
 		)
 		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "U11_?")
+					(unit 1)
+				)
+			)
 			(project "JPLR J11 Hack"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
 					(reference "U11_2")
 					(unit 4)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 309.88 128.27 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0ef1b551-8b0a-4c68-9476-fc6f7e3cbaf1")
+		(property "Reference" "R11_2"
+			(at 308.356 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100 ohm"
+			(at 309.88 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 309.88 126.492 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 309.88 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 309.88 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a5efeefa-29e1-41ab-b0d5-ff8c9feaed65")
+		)
+		(pin "1"
+			(uuid "c6d66bd4-8e27-4414-b177-c3ab993b3b82")
+		)
+		(instances
+			(project ""
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "R11_2")
+					(unit 1)
 				)
 			)
 		)
@@ -10426,7 +10447,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16212921-f3d9-4b0c-a187-1de526f54ae8")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR0105"
 			(at 212.09 109.22 0)
 			(effects
 				(font
@@ -10497,7 +10518,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18381d22-d415-4b58-a0b5-ea934584dfa9")
-		(property "Reference" "J3"
+		(property "Reference" "J?"
 			(at 369.57 134.6199 0)
 			(effects
 				(font
@@ -10593,13 +10614,13 @@
 	(symbol
 		(lib_id "74xx:74LS133")
 		(at 196.85 266.7 0)
-		(unit 2)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "186adc25-c9b4-4ac9-800c-04850aed77a9")
-		(property "Reference" "U3"
+		(property "Reference" "U?"
 			(at 198.374 255.27 0)
 			(effects
 				(font
@@ -10693,6 +10714,12 @@
 			(uuid "3cad5b07-522d-47c0-9e7a-f1f38266736d")
 		)
 		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project ""
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
 					(reference "U3")
@@ -10705,13 +10732,13 @@
 		(lib_id "74xx:7400")
 		(at 158.75 110.49 0)
 		(mirror y)
-		(unit 1)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "2accabd2-1934-4f81-8b76-97d7ff3350a6")
-		(property "Reference" "U11_2"
+		(property "Reference" "U5"
 			(at 158.7583 101.6 0)
 			(effects
 				(font
@@ -10838,7 +10865,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3de54608-ac2d-4732-bb2f-7b1ddc366de9")
-		(property "Reference" "C17"
+		(property "Reference" "C?"
 			(at 232.41 102.8699 0)
 			(effects
 				(font
@@ -10890,6 +10917,12 @@
 			(uuid "0c6cc072-170c-4ab6-9f2f-db422874123f")
 		)
 		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "C?")
+					(unit 1)
+				)
+			)
 			(project "JPLR J11 Hack"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
 					(reference "C17")
@@ -10907,7 +10940,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "50685342-9f71-4fe3-848e-a15c8551ad2b")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR?"
 			(at 15.24 264.16 0)
 			(effects
 				(font
@@ -10977,7 +11010,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "54c26146-66c7-4405-bc1b-977c58e760ab")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR0103"
 			(at 153.67 81.28 0)
 			(effects
 				(font
@@ -11071,13 +11104,13 @@
 	(symbol
 		(lib_id "74xx:7400")
 		(at 38.1 241.3 0)
-		(unit 2)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "58cfe6bc-6034-41b3-94a9-90b4aadd1efb")
-		(property "Reference" "U11_2"
+		(property "Reference" "U11_?"
 			(at 38.0917 232.41 0)
 			(effects
 				(font
@@ -11162,6 +11195,12 @@
 			(uuid "b7f80877-2f0b-4d08-8b3e-30ae410fb937")
 		)
 		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "U11_?")
+					(unit 1)
+				)
+			)
 			(project "JPLR J11 Hack"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
 					(reference "U11_2")
@@ -11173,14 +11212,14 @@
 	(symbol
 		(lib_id "74xx:74LS126")
 		(at 135.89 152.4 0)
-		(unit 1)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d16702b-3229-4314-8e7d-172b4771e02a")
-		(property "Reference" "U1100_1"
+		(property "Reference" "U1100_3"
 			(at 135.89 143.51 0)
 			(effects
 				(font
@@ -11306,7 +11345,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5e8bee57-a9f5-4d03-8f55-feb7058fa687")
-		(property "Reference" "C21"
+		(property "Reference" "C5"
 			(at 277.241 265.5316 0)
 			(effects
 				(font
@@ -11398,7 +11437,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5ff1769e-b12b-486f-bab5-3498a539518a")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR0102"
 			(at 198.12 138.43 0)
 			(effects
 				(font
@@ -11490,89 +11529,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 298.45 148.59 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5ff36cf4-d97f-4128-b972-8173c5f4db99")
-		(property "Reference" "#PWR018"
-			(at 298.45 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 298.323 152.9842 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 298.45 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 298.45 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 298.45 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7ea546bf-16b5-4207-98bb-693551251d46")
-		)
-		(instances
-			(project "1100_UART-interface"
-				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
-					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-			(project "Modular DCJ11"
-				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
-					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-			(project "F-11-trainer"
-				(path "/80d16493-2449-4e06-861d-4145a1cd8dd8/00000000-0000-0000-0000-000061a42887"
-					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-			(project "J-11_trainer_main"
-				(path "/de15af5e-56df-4dd2-abcd-0f41c55cf49d/37ab3793-6877-4918-971d-d4e400706988"
-					(reference "#PWR040")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 289.56 113.03 270)
 		(unit 1)
@@ -11581,7 +11537,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "60706ecb-304a-4c0e-a5c1-b64c3eb208c5")
-		(property "Reference" "C25"
+		(property "Reference" "C?"
 			(at 297.942 109.22 90)
 			(effects
 				(font
@@ -11660,7 +11616,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "627beea4-f67c-4407-a1b2-35c0e477b644")
-		(property "Reference" "C20"
+		(property "Reference" "C4"
 			(at 265.811 265.5316 0)
 			(effects
 				(font
@@ -11746,13 +11702,13 @@
 	(symbol
 		(lib_id "74xx:74LS02")
 		(at 167.64 266.7 0)
-		(unit 5)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6dc7f275-9503-450b-b4b3-5b1be8fb262c")
-		(property "Reference" "U1100_2"
+		(property "Reference" "U1100_?"
 			(at 168.402 255.524 0)
 			(effects
 				(font
@@ -11839,6 +11795,12 @@
 			(uuid "45bdd55b-28a1-4e74-a068-40b3f9a9cc64")
 		)
 		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "U1100_?")
+					(unit 1)
+				)
+			)
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
 					(reference "U1100_2")
@@ -11848,16 +11810,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 297.18 152.4 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "75dcc350-0677-40fe-a568-a6d662607ac4")
+		(property "Reference" "R11_4"
+			(at 295.91 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100 ohm"
+			(at 297.18 149.606 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 297.18 150.622 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 297.18 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 297.18 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "80c2821e-1aae-4ec3-b975-f5284125a2f7")
+		)
+		(pin "1"
+			(uuid "456e167a-9294-421c-8642-54c58c1aca53")
+		)
+		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "R11_4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "74xx:74LS02")
 		(at 245.11 55.88 0)
-		(unit 3)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c2832f2-5b22-49be-abce-226aaabe89c1")
-		(property "Reference" "U1100_2"
+		(property "Reference" "U1100_4"
 			(at 245.11 46.99 0)
 			(effects
 				(font
@@ -11983,7 +12012,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "80f8b985-7141-49e8-bc64-e006f45951b4")
-		(property "Reference" "C23"
+		(property "Reference" "C?"
 			(at 290.83 123.952 90)
 			(effects
 				(font
@@ -12062,7 +12091,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "83eb2844-d09b-4eeb-b7f9-e987a4a07ac0")
-		(property "Reference" "X1"
+		(property "Reference" "X1100_1"
 			(at 20.32 119.38 0)
 			(effects
 				(font
@@ -12158,16 +12187,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 297.18 143.51 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "840b2622-838a-4218-8926-5c943e98c361")
+		(property "Reference" "R11_5"
+			(at 295.656 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100 ohm"
+			(at 297.18 140.716 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 297.18 141.732 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 297.18 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 297.18 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5d66ff82-f47b-47ac-8507-01a383fdc36f")
+		)
+		(pin "1"
+			(uuid "d8c341da-35f6-4797-a02a-92f20499f95a")
+		)
+		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "R11_5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "74xx:74HCT04")
 		(at 34.29 96.52 0)
-		(unit 4)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84ef7767-57c2-4267-bd7e-4485060ab2d3")
-		(property "Reference" "U2"
+		(property "Reference" "U?"
 			(at 34.29 87.63 0)
 			(effects
 				(font
@@ -12253,6 +12349,12 @@
 			(uuid "dbbd29a2-f140-4002-b645-d7391fe83937")
 		)
 		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project "JPLR J11 Hack"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
 					(reference "U2")
@@ -12264,13 +12366,13 @@
 	(symbol
 		(lib_id "74xx:74LS126")
 		(at 222.25 266.7 0)
-		(unit 5)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "85cac42d-80b2-48c3-a336-1d171f1c60d0")
-		(property "Reference" "U1100_1"
+		(property "Reference" "U1100_?"
 			(at 223.52 255.27 0)
 			(effects
 				(font
@@ -12358,6 +12460,12 @@
 			(uuid "be637d09-b616-40fa-b3be-777ac8f0e9e6")
 		)
 		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "U1100_?")
+					(unit 1)
+				)
+			)
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
 					(reference "U1100_1")
@@ -12375,7 +12483,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8afccf6d-18f5-46fe-a5b1-a6e4fe83602e")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR0104"
 			(at 304.8 119.38 0)
 			(effects
 				(font
@@ -12469,14 +12577,14 @@
 	(symbol
 		(lib_id "74xx:74HCT04")
 		(at 46.99 41.91 0)
-		(unit 6)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9037f96a-0d97-4255-8326-3bad414acfb6")
-		(property "Reference" "U2"
+		(property "Reference" "U?"
 			(at 46.99 33.02 0)
 			(effects
 				(font
@@ -12562,6 +12670,12 @@
 			(uuid "dbbd29a2-f140-4002-b645-d7391fe83935")
 		)
 		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project "JPLR J11 Hack"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
 					(reference "U2")
@@ -12579,7 +12693,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "90b15c9e-7165-42cb-9623-e2b190c36abf")
-		(property "Reference" "C24"
+		(property "Reference" "C6"
 			(at 289.941 265.5316 0)
 			(effects
 				(font
@@ -12672,7 +12786,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9192d117-1196-4134-ba42-8f88d76aa7cc")
-		(property "Reference" "C22"
+		(property "Reference" "C?"
 			(at 287.02 102.8699 0)
 			(effects
 				(font
@@ -12754,7 +12868,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "991b9867-90f9-417a-9d70-72ba67ea7662")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR?"
 			(at 354.33 154.94 0)
 			(effects
 				(font
@@ -12831,7 +12945,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1618a3b-8857-4ef0-97b2-ff6f28bd8cec")
-		(property "Reference" "U3"
+		(property "Reference" "U?"
 			(at 52.0617 49.53 0)
 			(effects
 				(font
@@ -12923,6 +13037,12 @@
 			(uuid "734741b3-353d-433b-a30e-d23f614c0ec4")
 		)
 		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "U?")
+					(unit 1)
+				)
+			)
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
 					(reference "U3")
@@ -13046,7 +13166,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa6f4aa0-c203-4a9c-b0d0-0a87668d568f")
-		(property "Reference" "U6"
+		(property "Reference" "U1"
 			(at 214.2333 72.39 0)
 			(effects
 				(font
@@ -13163,7 +13283,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aeadf27d-363d-4336-a54b-88f8462dcc0a")
-		(property "Reference" "#PWR11_01"
+		(property "Reference" "#PWR01"
 			(at 287.02 266.7 0)
 			(effects
 				(font
@@ -13245,13 +13365,13 @@
 	(symbol
 		(lib_id "74xx:74LS126")
 		(at 62.23 237.49 0)
-		(unit 4)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "b212f7c2-6da2-40ac-bb3e-2068bb62c1c6")
-		(property "Reference" "U1100_1"
+		(property "Reference" "U1100_?"
 			(at 64.77 231.14 0)
 			(effects
 				(font
@@ -13336,6 +13456,12 @@
 			(uuid "6c1d3c5b-8c46-4057-b62c-26c5ea93db41")
 		)
 		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "U1100_?")
+					(unit 1)
+				)
+			)
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
 					(reference "U1100_1")
@@ -13353,7 +13479,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b8eb7ad8-733a-416f-a436-c83fd6ef1e19")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR0111"
 			(at 116.84 146.05 0)
 			(effects
 				(font
@@ -13453,7 +13579,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b90ffda4-b226-4041-9b7f-168ed445979a")
-		(property "Reference" "C19"
+		(property "Reference" "C3"
 			(at 253.111 265.5316 0)
 			(effects
 				(font
@@ -13539,14 +13665,14 @@
 	(symbol
 		(lib_id "74xx:74LS02")
 		(at 245.11 72.39 0)
-		(unit 4)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bb5fa918-a15a-469a-b854-3960dd073db9")
-		(property "Reference" "U1100_2"
+		(property "Reference" "U1100_4"
 			(at 245.11 63.5 0)
 			(effects
 				(font
@@ -13672,7 +13798,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d52becf6-83ad-4880-9b08-56b8ec22ab5e")
-		(property "Reference" "C18"
+		(property "Reference" "C2"
 			(at 240.411 265.5316 0)
 			(effects
 				(font
@@ -13758,14 +13884,14 @@
 	(symbol
 		(lib_id "74xx:74HCT04")
 		(at 260.35 72.39 0)
-		(unit 5)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d548a94d-842f-4c2e-9262-f96abfccdccb")
-		(property "Reference" "U1"
+		(property "Reference" "U?"
 			(at 260.35 63.5 0)
 			(effects
 				(font
@@ -13880,7 +14006,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8617267-8f3b-4f82-b9ab-436f10061fe3")
-		(property "Reference" "U1100_1"
+		(property "Reference" "U1100_3"
 			(at 294.64 46.99 0)
 			(effects
 				(font
@@ -13998,17 +14124,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 297.18 135.89 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d95a98e7-06d6-40ac-98c2-2b558c2ed016")
+		(property "Reference" "R11_3"
+			(at 295.91 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100 ohm"
+			(at 297.18 133.096 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 297.18 134.112 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 297.18 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 297.18 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6ae9592f-c0f9-4278-bd2c-8941f7b84480")
+		)
+		(pin "1"
+			(uuid "661835e2-024d-48b2-b7ff-3202c24d4edb")
+		)
+		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "R11_3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "74xx:74LS02")
 		(at 161.29 128.27 0)
 		(mirror y)
-		(unit 1)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e223ecc0-fa50-4d64-8e82-d533bc2d67f9")
-		(property "Reference" "U1100_2"
+		(property "Reference" "U1100_4"
 			(at 161.29 119.38 0)
 			(effects
 				(font
@@ -14135,7 +14328,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e408c75b-55e1-4412-87f0-00cee47dff50")
-		(property "Reference" "C11_1"
+		(property "Reference" "C11_?"
 			(at 146.05 126.9999 0)
 			(effects
 				(font
@@ -14187,6 +14380,12 @@
 			(uuid "6926dee6-4363-479b-8695-192d47ac9777")
 		)
 		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "C11_?")
+					(unit 1)
+				)
+			)
 			(project "JPLR J11 Hack"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
 					(reference "C11_1")
@@ -14199,14 +14398,14 @@
 		(lib_id "74xx:74LS02")
 		(at 161.29 142.24 0)
 		(mirror y)
-		(unit 2)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7e199c2-d573-4698-8a34-0312651dd7e8")
-		(property "Reference" "U1100_2"
+		(property "Reference" "U1100_4"
 			(at 161.29 133.35 0)
 			(effects
 				(font
@@ -14333,7 +14532,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec0ed932-b435-486c-ae5c-d9b1e6ee0506")
-		(property "Reference" "U7"
+		(property "Reference" "U15"
 			(at 258.6833 92.71 0)
 			(effects
 				(font
@@ -14468,7 +14667,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f2b923ef-9a2c-49f8-996d-e929e4527f11")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR02"
 			(at 287.02 276.86 0)
 			(effects
 				(font
@@ -14550,13 +14749,13 @@
 	(symbol
 		(lib_id "74xx:74LS126")
 		(at 62.23 248.92 0)
-		(unit 3)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f3b99ff3-c50e-420b-9db3-f41a1784cee2")
-		(property "Reference" "U1100_1"
+		(property "Reference" "U1100_?"
 			(at 69.85 244.094 0)
 			(effects
 				(font
@@ -14641,6 +14840,12 @@
 			(uuid "6c1d3c5b-8c46-4057-b62c-26c5ea93db43")
 		)
 		(instances
+			(project "1100_UART-interface"
+				(path "/19ca6b8e-03b5-49c0-a767-8c45c82f6f4c"
+					(reference "U1100_?")
+					(unit 1)
+				)
+			)
 			(project "Modular DCJ11"
 				(path "/264d9b66-53d1-4564-94e8-42c7c0bb6a66/042f6360-6001-4a2a-846e-98558c212884"
 					(reference "U1100_1")
@@ -14658,7 +14863,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f5c53538-b025-4848-bb63-6c63ebf5c1e0")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR0101"
 			(at 256.54 161.29 0)
 			(effects
 				(font
@@ -14758,7 +14963,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fd0cee12-869d-49f9-a271-11aeebe87c9b")
-		(property "Reference" "U4"
+		(property "Reference" "U1100_2"
 			(at 116.84 88.9 0)
 			(effects
 				(font
