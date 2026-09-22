@@ -1,0 +1,991 @@
+Info: Processing symbol 'KBD_ARROW1:'.
+Info: Processing symbol 'KBD_6:'.
+Info: Processing symbol 'U27:Package_DIP:DIP-40_W15.24mm'.
+Info: Processing symbol 'KBD_7:'.
+Info: Processing symbol 'U26:KIM-1_Library:DIP-8_W7.62mm'.
+Info: Processing symbol 'KBD_8:'.
+Info: Processing symbol 'KBD_9:'.
+Info: Processing symbol 'U25:Package_DIP:DIP-40_W15.24mm'.
+Info: Processing symbol 'KBD_A1:'.
+Info: Processing symbol 'U24:'.
+Info: Processing symbol 'KBD_5:'.
+Info: Processing symbol 'KBD_B1:'.
+Info: Processing symbol 'U23:Package_DIP:DIP-28_W15.24mm'.
+Info: Processing symbol 'KBD_C1:'.
+Info: Processing symbol 'KBD_CR1:'.
+Info: Processing symbol 'U22:Package_DIP:DIP-28_W15.24mm'.
+Info: Processing symbol 'KBD_D1:'.
+Info: Processing symbol 'KBD_DBG_OFF1:'.
+Info: Processing symbol 'U21:Package_DIP:DIP-28_W15.24mm'.
+Info: Processing symbol 'U31:KIM-1_Library:MAN72A_U18'.
+Info: Processing symbol 'U35:KIM-1_Library:MAN72A_U22'.
+Info: Processing symbol 'H_S32:'.
+Info: Processing symbol 'U34:KIM-1_Library:MAN72A_U21'.
+Info: Processing symbol 'J4:Alius_6502:SD_Card_Header'.
+Info: Processing symbol 'U33:KIM-1_Library:MAN72A_U19-U20'.
+Info: Processing symbol 'J_SO3:'.
+Info: Processing symbol 'U32:KIM-1_Library:MAN72A_U19-U20'.
+Info: Processing symbol 'KBD_+-1:'.
+Info: Processing symbol 'KBD_DBG_OFF2:'.
+Info: Processing symbol 'KBD_0:'.
+Info: Processing symbol 'U30:'.
+Info: Processing symbol 'KBD_1:'.
+Info: Processing symbol 'KBD_2:'.
+Info: Processing symbol 'U29:Package_DIP:DIP-40_W15.24mm'.
+Info: Processing symbol 'KBD_3:'.
+Info: Processing symbol 'KBD_4:'.
+Info: Processing symbol 'U28:Package_DIP:DIP-40_W15.24mm'.
+Info: Processing symbol 'MH36:'.
+Info: Processing symbol 'K_connector1:'.
+Info: Processing symbol 'U14:Package_DIP:DIP-18_W7.62mm'.
+Info: Processing symbol 'K_S13:'.
+Info: Processing symbol 'L_S23:'.
+Info: Processing symbol 'U13:Package_DIP:DIP-18_W7.62mm'.
+Info: Processing symbol 'MH32:'.
+Info: Processing symbol 'MH35:'.
+Info: Processing symbol 'U12:Package_DIP:DIP-18_W7.62mm'.
+Info: Processing symbol 'KBD_SHIFT1:'.
+Info: Processing symbol 'U11:'.
+Info: Processing symbol 'MH37:'.
+Info: Processing symbol 'U10:'.
+Info: Processing symbol 'MH38:'.
+Info: Processing symbol 'U9:KIM-1_Library:DIP-14_W7.62mm'.
+Info: Processing symbol 'MH39:'.
+Info: Processing symbol 'U8:'.
+Info: Processing symbol 'MH40:'.
+Info: Processing symbol 'KBD_LOAD1:'.
+Info: Processing symbol 'KBD_DBG_ON1:'.
+Info: Processing symbol 'U20:Package_DIP:DIP-28_W15.24mm'.
+Info: Processing symbol 'KBD_DBG_ON2:'.
+Info: Processing symbol 'KBD_E1:'.
+Info: Processing symbol 'U19:Package_DIP:DIP-18_W7.62mm'.
+Info: Processing symbol 'KBD_F1:'.
+Info: Processing symbol 'KBD_GO1:'.
+Info: Processing symbol 'U18:Package_DIP:DIP-18_W7.62mm'.
+Info: Processing symbol 'HOLE_35:'.
+Info: Processing symbol 'KBD_MEM1:'.
+Info: Processing symbol 'U17:Package_DIP:DIP-18_W7.62mm'.
+Info: Processing symbol 'KBD_REG1:'.
+Info: Processing symbol 'KBD_RST1:'.
+Info: Processing symbol 'U16:Package_DIP:DIP-18_W7.62mm'.
+Info: Processing symbol 'KBD_RST2:'.
+Info: Processing symbol 'KBD_SAV1:'.
+Info: Processing symbol 'U15:Package_DIP:DIP-18_W7.62mm'.
+Info: Processing symbol 'DOF-X1:'.
+Info: Processing symbol 'DET-A-A1:'.
+Info: Processing symbol 'DET-A-A2:'.
+Info: Processing symbol 'DET-A-A3:'.
+Info: Processing symbol 'DET-A-B1:'.
+Info: Processing symbol 'DET-A-B2:'.
+Info: Processing symbol 'DET-A-B3:'.
+Info: Processing symbol 'DET-A-B4:'.
+Info: Processing symbol 'DOF-25:'.
+Info: Processing symbol 'DET-A-76:'.
+Info: Processing symbol 'DON-24:'.
+Info: Processing symbol 'DON-W1:'.
+Info: Processing symbol 'D_OUT-26:'.
+Info: Processing symbol 'D_OUT-Y1:'.
+Info: Processing symbol 'D_S31:'.
+Info: Processing symbol 'EE1:'.
+Info: Processing symbol 'EPROM_JUMPER_1:'.
+Info: Processing symbol 'EPROM_JUMPER_2:'.
+Info: Processing symbol 'DET-A-67:'.
+Info: Processing symbol 'DET-A-59:'.
+Info: Processing symbol 'DET-A-60:'.
+Info: Processing symbol 'DET-A-61:'.
+Info: Processing symbol 'DET-A-62:'.
+Info: Processing symbol 'DET-A-63:'.
+Info: Processing symbol 'DET-A-64:'.
+Info: Processing symbol 'DET-A-65:'.
+Info: Processing symbol 'DET-A-66:'.
+Info: Processing symbol 'EPROM_JUMPER_3:'.
+Info: Processing symbol 'DET-A-68:'.
+Info: Processing symbol 'DET-A-69:'.
+Info: Processing symbol 'DET-A-70:'.
+Info: Processing symbol 'DET-A-71:'.
+Info: Processing symbol 'DET-A-72:'.
+Info: Processing symbol 'DET-A-73:'.
+Info: Processing symbol 'DET-A-74:'.
+Info: Processing symbol 'DET-A-75:'.
+Info: Processing symbol 'U100:'.
+Info: Processing symbol 'U108:'.
+Info: Processing symbol 'E_connector1:KIM-1_Library:KIM_CONN'.
+Info: Processing symbol 'U107:'.
+Info: Processing symbol 'E_SO2:'.
+Info: Processing symbol 'U105:'.
+Info: Processing symbol 'FF1:'.
+Info: Processing symbol 'U104:'.
+Info: Processing symbol 'F_S12:'.
+Info: Processing symbol 'EPROM_JUMPER_16:'.
+Info: Processing symbol 'GG1:'.
+Info: Processing symbol 'U39:'.
+Info: Processing symbol 'G_S22:'.
+Info: Processing symbol 'U38:'.
+Info: Processing symbol 'HOLE_33:'.
+Info: Processing symbol 'U37:KIM-1_Library:DIP-16_W7.62mm_U24'.
+Info: Processing symbol 'HOLE_34:'.
+Info: Processing symbol 'U36:KIM-1_Library:MAN72A_U23'.
+Info: Processing symbol 'EPROM_JUMPER_11:'.
+Info: Processing symbol 'EPROM_JUMPER_4:'.
+Info: Processing symbol 'EPROM_JUMPER_5:'.
+Info: Processing symbol 'EPROM_JUMPER_6:'.
+Info: Processing symbol 'EPROM_JUMPER_7:'.
+Info: Processing symbol 'EPROM_JUMPER_8:'.
+Info: Processing symbol 'EPROM_JUMPER_9:'.
+Info: Processing symbol 'EPROM_JUMPER_10:'.
+Info: Processing symbol '~{POR}_19:'.
+Info: Processing symbol 'U7:'.
+Info: Processing symbol 'EPROM_JUMPER_12:'.
+Info: Processing symbol 'Y1:Crystal:Crystal_HC33-U_Horizontal'.
+Info: Processing symbol 'EPROM_JUMPER_13:'.
+Info: Processing symbol 'U216:KIM-1_Library:DIP-14_W7.62mm'.
+Info: Processing symbol 'EPROM_JUMPER_14:'.
+Info: Processing symbol 'U215:KIM-1_Library:DIP-14_W7.62mm'.
+Info: Processing symbol 'EPROM_JUMPER_15:'.
+Info: Processing symbol 'U209:'.
+Info: Processing symbol 'R111:'.
+Info: Processing symbol 'R124:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R49:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R123:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R50:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R114:'.
+Info: Processing symbol 'R51:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R113:'.
+Info: Processing symbol 'R52:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R48:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R53:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R110:'.
+Info: Processing symbol 'R54:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R109:'.
+Info: Processing symbol 'R55:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R108:'.
+Info: Processing symbol 'R56:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R107:'.
+Info: Processing symbol 'R204:KIM-1_Library:R_Axial_DIN0309_3K3_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'RAM_80_FF1:'.
+Info: Processing symbol 'R24:'.
+Info: Processing symbol 'R1028:'.
+Info: Processing symbol 'R41:'.
+Info: Processing symbol 'R206:KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal'.
+Info: Processing symbol 'R42:'.
+Info: Processing symbol 'R205:KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal'.
+Info: Processing symbol 'R43:'.
+Info: Processing symbol 'R57:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R44:'.
+Info: Processing symbol 'R201:KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal'.
+Info: Processing symbol 'R45:'.
+Info: Processing symbol 'R128:KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R46:'.
+Info: Processing symbol 'R127:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R47:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R126:KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R90:Alius_6502:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R94:KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R73:KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal'.
+Info: Processing symbol 'R93:KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R74:KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal'.
+Info: Processing symbol 'R92:KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R75:KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal'.
+Info: Processing symbol 'R91:Alius_6502:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R76:KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal'.
+Info: Processing symbol 'R71:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R77:'.
+Info: Processing symbol 'R85:'.
+Info: Processing symbol 'R79:'.
+Info: Processing symbol 'R84:'.
+Info: Processing symbol 'R80:'.
+Info: Processing symbol 'R83:'.
+Info: Processing symbol 'R81:'.
+Info: Processing symbol 'R82:'.
+Info: Processing symbol 'R102:'.
+Info: Processing symbol 'R106:'.
+Info: Processing symbol 'R58:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R105:'.
+Info: Processing symbol 'R60:'.
+Info: Processing symbol 'R104:'.
+Info: Processing symbol 'R62:'.
+Info: Processing symbol 'R103:'.
+Info: Processing symbol 'R63:'.
+Info: Processing symbol 'R23:'.
+Info: Processing symbol 'R67:'.
+Info: Processing symbol 'R101:'.
+Info: Processing symbol 'R68:'.
+Info: Processing symbol 'R100:'.
+Info: Processing symbol 'R69:'.
+Info: Processing symbol 'R99:'.
+Info: Processing symbol 'R70:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R96:KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'Q33:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q25:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q26:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q27:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q28:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q29:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q30:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q31:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q32:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q24:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R1:'.
+Info: Processing symbol 'U5:Package_DIP:DIP-40_W15.24mm'.
+Info: Processing symbol 'R2:'.
+Info: Processing symbol 'U4:'.
+Info: Processing symbol 'R3:'.
+Info: Processing symbol 'U3:'.
+Info: Processing symbol 'R4:'.
+Info: Processing symbol 'U2:KIM-1_Library:DIP-14_W7.62mm'.
+Info: Processing symbol 'Q9:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'M_S33:'.
+Info: Processing symbol 'P4:KIM-1_Library:KIM_CONN'.
+Info: Processing symbol 'U6:Package_DIP:DIP-8_W7.62mm'.
+Info: Processing symbol 'P_connector1:'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q2:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q3:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q4:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R5:'.
+Info: Processing symbol 'Q10:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q17:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q18:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q19:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q20:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q21:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q22:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q23:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'ROM_20_2:'.
+Info: Processing symbol 'ROM_R1:'.
+Info: Processing symbol 'R15:'.
+Info: Processing symbol 'ROM_P1:'.
+Info: Processing symbol 'R16:'.
+Info: Processing symbol 'ROM_N1:'.
+Info: Processing symbol 'R17:'.
+Info: Processing symbol 'ROM_20_3:'.
+Info: Processing symbol 'R18:'.
+Info: Processing symbol 'R14:'.
+Info: Processing symbol 'R19:'.
+Info: Processing symbol 'ROM_20_1:'.
+Info: Processing symbol 'R20:'.
+Info: Processing symbol 'RN2:'.
+Info: Processing symbol 'R21:'.
+Info: Processing symbol 'RAM_CS-44_HH1:'.
+Info: Processing symbol 'R22:'.
+Info: Processing symbol 'RAM_CS-41_A->K_APP_CONN1:'.
+Info: Processing symbol 'S46:'.
+Info: Processing symbol 'U1:'.
+Info: Processing symbol 'R6:'.
+Info: Processing symbol 'T_CONN1:'.
+Info: Processing symbol 'R7:'.
+Info: Processing symbol 'SP-1:'.
+Info: Processing symbol 'R8:'.
+Info: Processing symbol 'S47:'.
+Info: Processing symbol 'R9:'.
+Info: Processing symbol 'DET-A-A4:'.
+Info: Processing symbol 'R10:'.
+Info: Processing symbol 'S18:'.
+Info: Processing symbol 'R11:'.
+Info: Processing symbol 'S17:'.
+Info: Processing symbol 'R12:'.
+Info: Processing symbol 'ROM_S1:'.
+Info: Processing symbol 'R13:'.
+Info: Processing symbol 'ROM_RAM1:'.
+Info: Processing symbol 'CR1:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR36:KIM-1_Library:D_DO-35_SOD27_P12.70mm_Horizontal'.
+Info: Processing symbol 'CR34:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'CR33:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR32:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR31:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR29:KIM-1_Library:D_DO-35_SOD27_P12.70mm_Horizontal'.
+Info: Processing symbol 'CR28:KIM-1_Library:D_DO-35_SOD27_P12.70mm_Horizontal'.
+Info: Processing symbol 'CR27:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR26:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR25:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR4:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR3:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR2:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR37:KIM-1_Library:D_DO-35_SOD27_P12.70mm_Horizontal'.
+Info: Processing symbol 'CC1:'.
+Info: Processing symbol 'C116:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C115:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C112:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C111:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C110:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C109:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C83:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C82:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C81:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C80:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C79:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C78:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'DET-A-11:'.
+Info: Processing symbol 'DET-A-24:'.
+Info: Processing symbol 'DET-A-23:'.
+Info: Processing symbol 'DET-A-22:'.
+Info: Processing symbol 'DET-A-21:'.
+Info: Processing symbol 'DET-A-20:'.
+Info: Processing symbol 'DET-A-19:'.
+Info: Processing symbol 'DET-A-18:'.
+Info: Processing symbol 'DET-A-17:'.
+Info: Processing symbol 'DET-A-16:'.
+Info: Processing symbol 'DET-A-15:'.
+Info: Processing symbol 'DET-A-14:'.
+Info: Processing symbol 'DET-A-13:'.
+Info: Processing symbol 'DET-A-12:'.
+Info: Processing symbol 'C77:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'DET-A-10:'.
+Info: Processing symbol 'DET-A-9:'.
+Info: Processing symbol 'DET-A-8:'.
+Info: Processing symbol 'DET-A-7:'.
+Info: Processing symbol 'DET-A-6:'.
+Info: Processing symbol 'DET-A-5:'.
+Info: Processing symbol 'DET-A-4:'.
+Info: Processing symbol 'DET-A-3:'.
+Info: Processing symbol 'DET-A-2:'.
+Info: Processing symbol 'DET-A-1:'.
+Info: Processing symbol 'D1:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'C_S21:'.
+Info: Processing symbol 'CR38:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'C13:KIM-1_Library:C_Disc_D9.0mm_W2.5mm_P13.00mm'.
+Info: Processing symbol 'C33:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C32:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C31:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C30:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C19:KIM-1_Library:C_Axial_L17.0mm_D6.5mm_P35.56mm_Horizontal'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C16:KIM-1_Library:C_Axial_L17.0mm_D6.5mm_P35.56mm_Horizontal'.
+Info: Processing symbol 'C15:KIM-1_Library:C_Axial_L17.0mm_D6.5mm_P35.56mm_Horizontal'.
+Info: Processing symbol 'C39:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C12:'.
+Info: Processing symbol 'C11:'.
+Info: Processing symbol 'C10:'.
+Info: Processing symbol 'C9:'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C2:'.
+Info: Processing symbol 'B_S11:'.
+Info: Processing symbol 'A_SO1:'.
+Info: Processing symbol 'A_connector1:KIM-1_Library:KIM_CONN'.
+Info: Processing symbol 'AA_connector1:KIM-1_Library:KIM_CONN'.
+Info: Processing symbol 'C58:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C76:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C75:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C74:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C73:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C72:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C71:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C70:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C69:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C68:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C67:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C66:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C65:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C64:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'DET-A-58:'.
+Info: Processing symbol 'C57:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C56:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C55:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C54:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C53:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C52:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C51:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C50:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C49:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C43:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C42:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C41:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C40:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'DET-A-36:'.
+Info: Processing symbol 'DET-A-56:'.
+Info: Processing symbol 'DET-A-46:'.
+Info: Processing symbol 'DET-A-31:'.
+Info: Processing symbol 'DET-A-32:'.
+Info: Processing symbol 'DET-A-55:'.
+Info: Processing symbol 'DET-A-33:'.
+Info: Processing symbol 'DET-A-45:'.
+Info: Processing symbol 'DET-A-34:'.
+Info: Processing symbol 'DET-A-50:'.
+Info: Processing symbol 'DET-A-44:'.
+Info: Processing symbol 'DET-A-35:'.
+Info: Processing symbol 'DET-A-54:'.
+Info: Processing symbol 'DET-A-37:'.
+Info: Processing symbol 'DET-A-43:'.
+Info: Processing symbol 'DET-A-53:'.
+Info: Processing symbol 'DET-A-38:'.
+Info: Processing symbol 'DET-A-42:'.
+Info: Processing symbol 'DET-A-39:'.
+Info: Processing symbol 'DET-A-52:'.
+Info: Processing symbol 'DET-A-40:'.
+Info: Processing symbol 'DET-A-51:'.
+Info: Processing symbol 'DET-A-41:'.
+Info: Processing symbol 'DET-A-25:'.
+Info: Processing symbol 'DET-A-28:'.
+Info: Processing symbol 'DET-A-26:'.
+Info: Processing symbol 'DET-A-29:'.
+Info: Processing symbol 'DET-A-47:'.
+Info: Processing symbol 'DET-A-48:'.
+Info: Processing symbol 'DET-A-49:'.
+Info: Processing symbol 'DET-A-57:'.
+Info: Processing symbol 'DET-A-27:'.
+Info: Processing symbol 'DET-A-30:'.
+Add Q25 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add Q24 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add Q18 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C112 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Q19 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add Q20 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C111 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Q27 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add Q21 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C41 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Q22 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C109 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C64 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C110 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add Q23 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C58 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C55 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Q17 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C115 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Q10 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C40 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Q9 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C116 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add Q4 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C57 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Q3 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C39 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add Q2 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add Q1 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add CR1 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add U5 (footprint 'Package_DIP:DIP-40_W15.24mm').
+Add C75 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C79 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C53 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C78 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C67 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C49 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C77 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C76 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C68 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C66 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C50 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C74 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C73 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C51 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C72 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C69 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C71 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C70 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Q30 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add Q26 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C83 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C52 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C42 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Q28 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C82 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Q29 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C65 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C54 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C81 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Q31 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C43 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add Q32 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add C56 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C80 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add Q33 (footprint 'Package_TO_SOT_THT:TO-92_Inline').
+Add U20 (footprint 'Package_DIP:DIP-28_W15.24mm').
+Add U15 (footprint 'Package_DIP:DIP-18_W7.62mm').
+Add C27 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add U16 (footprint 'Package_DIP:DIP-18_W7.62mm').
+Add C26 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add CR38 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add U17 (footprint 'Package_DIP:DIP-18_W7.62mm').
+Add C25 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add D1 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add U18 (footprint 'Package_DIP:DIP-18_W7.62mm').
+Add U19 (footprint 'Package_DIP:DIP-18_W7.62mm').
+Add Y1 (footprint 'Crystal:Crystal_HC33-U_Horizontal').
+Add C17 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C33 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add U21 (footprint 'Package_DIP:DIP-28_W15.24mm').
+Add U22 (footprint 'Package_DIP:DIP-28_W15.24mm').
+Add U23 (footprint 'Package_DIP:DIP-28_W15.24mm').
+Add U25 (footprint 'Package_DIP:DIP-40_W15.24mm').
+Add U27 (footprint 'Package_DIP:DIP-40_W15.24mm').
+Add C8 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add U28 (footprint 'Package_DIP:DIP-40_W15.24mm').
+Add C7 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add U29 (footprint 'Package_DIP:DIP-40_W15.24mm').
+Add C6 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add C4 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C28 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add CR2 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add U6 (footprint 'Package_DIP:DIP-8_W7.62mm').
+Add CR3 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add CR4 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add C32 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add CR25 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add CR26 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add CR27 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add C31 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C30 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add U12 (footprint 'Package_DIP:DIP-18_W7.62mm').
+Add CR33 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add CR31 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add C29 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Add U14 (footprint 'Package_DIP:DIP-18_W7.62mm').
+Add U13 (footprint 'Package_DIP:DIP-18_W7.62mm').
+Add CR32 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Add CR34 (footprint 'Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal').
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Warning: Via connected to unknown net ().
+Error: Cannot add EPROM_JUMPER_1 (no footprint assigned).
+Error: Cannot add DET-A-B3 (no footprint assigned).
+Error: Cannot add DET-A-B4 (no footprint assigned).
+Error: Cannot add DOF-25 (no footprint assigned).
+Error: Cannot add DOF-X1 (no footprint assigned).
+Error: Cannot add DON-24 (no footprint assigned).
+Error: Cannot add DON-W1 (no footprint assigned).
+Error: Cannot add D_OUT-26 (no footprint assigned).
+Error: Cannot add D_OUT-Y1 (no footprint assigned).
+Error: Cannot add D_S31 (no footprint assigned).
+Error: Cannot add EE1 (no footprint assigned).
+Error: Cannot add DET-A-B2 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_2 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_3 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_4 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_5 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_6 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_7 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_8 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_9 (no footprint assigned).
+Error: Cannot add ~{POR}_19 (no footprint assigned).
+Error: Cannot add DET-A-72 (no footprint assigned).
+Error: Cannot add DET-A-63 (no footprint assigned).
+Error: Cannot add DET-A-64 (no footprint assigned).
+Error: Cannot add DET-A-65 (no footprint assigned).
+Error: Cannot add DET-A-66 (no footprint assigned).
+Error: Cannot add DET-A-67 (no footprint assigned).
+Error: Cannot add DET-A-68 (no footprint assigned).
+Error: Cannot add DET-A-69 (no footprint assigned).
+Error: Cannot add DET-A-70 (no footprint assigned).
+Error: Cannot add DET-A-71 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_10 (no footprint assigned).
+Error: Cannot add DET-A-73 (no footprint assigned).
+Error: Cannot add DET-A-74 (no footprint assigned).
+Error: Cannot add DET-A-75 (no footprint assigned).
+Error: Cannot add DET-A-76 (no footprint assigned).
+Error: Cannot add DET-A-A1 (no footprint assigned).
+Error: Cannot add DET-A-A2 (no footprint assigned).
+Error: Cannot add DET-A-A3 (no footprint assigned).
+Error: Cannot add DET-A-A4 (no footprint assigned).
+Error: Cannot add DET-A-B1 (no footprint assigned).
+Error: Cannot add H_S32 (no footprint assigned).
+Error: Cannot add U38 (no footprint assigned).
+Error: Cannot add G_S22 (no footprint assigned).
+Error: Cannot add U37 (footprint 'KIM-1_Library:DIP-16_W7.62mm_U24' not found).
+Error: Cannot add HOLE_33 (no footprint assigned).
+Error: Cannot add U36 (footprint 'KIM-1_Library:MAN72A_U23' not found).
+Error: Cannot add HOLE_34 (no footprint assigned).
+Error: Cannot add U35 (footprint 'KIM-1_Library:MAN72A_U22' not found).
+Error: Cannot add HOLE_35 (no footprint assigned).
+Error: Cannot add U34 (footprint 'KIM-1_Library:MAN72A_U21' not found).
+Error: Cannot add GG1 (no footprint assigned).
+Error: Cannot add U33 (footprint 'KIM-1_Library:MAN72A_U19-U20' not found).
+Error: Cannot add J4 (footprint 'Alius_6502:SD_Card_Header' not found).
+Error: Cannot add U32 (footprint 'KIM-1_Library:MAN72A_U19-U20' not found).
+Error: Cannot add J_SO3 (no footprint assigned).
+Error: Cannot add U31 (footprint 'KIM-1_Library:MAN72A_U18' not found).
+Error: Cannot add KBD_+-1 (no footprint assigned).
+Error: Cannot add U30 (no footprint assigned).
+Error: Cannot add KBD_0 (no footprint assigned).
+Error: Cannot add KBD_1 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_16 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_11 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_12 (no footprint assigned).
+Error: Cannot add U216 (footprint 'KIM-1_Library:DIP-14_W7.62mm' not found).
+Error: Cannot add EPROM_JUMPER_13 (no footprint assigned).
+Error: Cannot add U215 (footprint 'KIM-1_Library:DIP-14_W7.62mm' not found).
+Error: Cannot add EPROM_JUMPER_14 (no footprint assigned).
+Error: Cannot add U209 (no footprint assigned).
+Error: Cannot add EPROM_JUMPER_15 (no footprint assigned).
+Error: Cannot add U108 (no footprint assigned).
+Error: Cannot add DET-A-62 (no footprint assigned).
+Error: Cannot add U107 (no footprint assigned).
+Error: Cannot add E_connector1 (footprint 'KIM-1_Library:KIM_CONN' not found).
+Error: Cannot add U105 (no footprint assigned).
+Error: Cannot add E_SO2 (no footprint assigned).
+Error: Cannot add U104 (no footprint assigned).
+Error: Cannot add FF1 (no footprint assigned).
+Error: Cannot add U100 (no footprint assigned).
+Error: Cannot add F_S12 (no footprint assigned).
+Error: Cannot add U39 (no footprint assigned).
+Error: Cannot add DET-A-12 (no footprint assigned).
+Error: Cannot add DET-A-2 (no footprint assigned).
+Error: Cannot add DET-A-3 (no footprint assigned).
+Error: Cannot add DET-A-4 (no footprint assigned).
+Error: Cannot add DET-A-5 (no footprint assigned).
+Error: Cannot add DET-A-6 (no footprint assigned).
+Error: Cannot add DET-A-7 (no footprint assigned).
+Error: Cannot add DET-A-8 (no footprint assigned).
+Error: Cannot add DET-A-9 (no footprint assigned).
+Error: Cannot add DET-A-10 (no footprint assigned).
+Error: Cannot add DET-A-11 (no footprint assigned).
+Error: Cannot add DET-A-1 (no footprint assigned).
+Error: Cannot add DET-A-13 (no footprint assigned).
+Error: Cannot add DET-A-14 (no footprint assigned).
+Error: Cannot add DET-A-15 (no footprint assigned).
+Error: Cannot add DET-A-16 (no footprint assigned).
+Error: Cannot add DET-A-17 (no footprint assigned).
+Error: Cannot add DET-A-18 (no footprint assigned).
+Error: Cannot add DET-A-19 (no footprint assigned).
+Error: Cannot add DET-A-20 (no footprint assigned).
+Error: Cannot add DET-A-21 (no footprint assigned).
+Error: Cannot add C13 (footprint 'KIM-1_Library:C_Disc_D9.0mm_W2.5mm_P13.00mm' not found).
+Error: Cannot add AA_connector1 (footprint 'KIM-1_Library:KIM_CONN' not found).
+Error: Cannot add A_connector1 (footprint 'KIM-1_Library:KIM_CONN' not found).
+Error: Cannot add A_SO1 (no footprint assigned).
+Error: Cannot add B_S11 (no footprint assigned).
+Error: Cannot add C2 (no footprint assigned).
+Error: Cannot add C9 (no footprint assigned).
+Error: Cannot add C10 (no footprint assigned).
+Error: Cannot add C11 (no footprint assigned).
+Error: Cannot add C12 (no footprint assigned).
+Error: Cannot add DET-A-22 (no footprint assigned).
+Error: Cannot add C15 (footprint 'KIM-1_Library:C_Axial_L17.0mm_D6.5mm_P35.56mm_Horizontal' not found).
+Error: Cannot add C16 (footprint 'KIM-1_Library:C_Axial_L17.0mm_D6.5mm_P35.56mm_Horizontal' not found).
+Error: Cannot add C19 (footprint 'KIM-1_Library:C_Axial_L17.0mm_D6.5mm_P35.56mm_Horizontal' not found).
+Error: Cannot add CC1 (no footprint assigned).
+Error: Cannot add CR28 (footprint 'KIM-1_Library:D_DO-35_SOD27_P12.70mm_Horizontal' not found).
+Error: Cannot add CR29 (footprint 'KIM-1_Library:D_DO-35_SOD27_P12.70mm_Horizontal' not found).
+Error: Cannot add CR36 (footprint 'KIM-1_Library:D_DO-35_SOD27_P12.70mm_Horizontal' not found).
+Error: Cannot add CR37 (footprint 'KIM-1_Library:D_DO-35_SOD27_P12.70mm_Horizontal' not found).
+Error: Cannot add C_S21 (no footprint assigned).
+Error: Cannot add DET-A-52 (no footprint assigned).
+Error: Cannot add DET-A-43 (no footprint assigned).
+Error: Cannot add DET-A-44 (no footprint assigned).
+Error: Cannot add DET-A-45 (no footprint assigned).
+Error: Cannot add DET-A-46 (no footprint assigned).
+Error: Cannot add DET-A-47 (no footprint assigned).
+Error: Cannot add DET-A-48 (no footprint assigned).
+Error: Cannot add DET-A-49 (no footprint assigned).
+Error: Cannot add DET-A-50 (no footprint assigned).
+Error: Cannot add DET-A-51 (no footprint assigned).
+Error: Cannot add DET-A-42 (no footprint assigned).
+Error: Cannot add DET-A-53 (no footprint assigned).
+Error: Cannot add DET-A-54 (no footprint assigned).
+Error: Cannot add DET-A-55 (no footprint assigned).
+Error: Cannot add DET-A-56 (no footprint assigned).
+Error: Cannot add DET-A-57 (no footprint assigned).
+Error: Cannot add DET-A-58 (no footprint assigned).
+Error: Cannot add DET-A-59 (no footprint assigned).
+Error: Cannot add DET-A-60 (no footprint assigned).
+Error: Cannot add DET-A-61 (no footprint assigned).
+Error: Cannot add DET-A-32 (no footprint assigned).
+Error: Cannot add DET-A-23 (no footprint assigned).
+Error: Cannot add DET-A-24 (no footprint assigned).
+Error: Cannot add DET-A-25 (no footprint assigned).
+Error: Cannot add DET-A-26 (no footprint assigned).
+Error: Cannot add DET-A-27 (no footprint assigned).
+Error: Cannot add DET-A-28 (no footprint assigned).
+Error: Cannot add DET-A-29 (no footprint assigned).
+Error: Cannot add DET-A-30 (no footprint assigned).
+Error: Cannot add DET-A-31 (no footprint assigned).
+Error: Cannot add KBD_2 (no footprint assigned).
+Error: Cannot add DET-A-33 (no footprint assigned).
+Error: Cannot add DET-A-34 (no footprint assigned).
+Error: Cannot add DET-A-35 (no footprint assigned).
+Error: Cannot add DET-A-36 (no footprint assigned).
+Error: Cannot add DET-A-37 (no footprint assigned).
+Error: Cannot add DET-A-38 (no footprint assigned).
+Error: Cannot add DET-A-39 (no footprint assigned).
+Error: Cannot add DET-A-40 (no footprint assigned).
+Error: Cannot add DET-A-41 (no footprint assigned).
+Error: Cannot add R49 (footprint 'KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R44 (no footprint assigned).
+Error: Cannot add R128 (footprint 'KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R45 (no footprint assigned).
+Error: Cannot add R127 (footprint 'KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R46 (no footprint assigned).
+Error: Cannot add R126 (footprint 'KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R47 (footprint 'KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R124 (footprint 'KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R48 (footprint 'KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R123 (footprint 'KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R201 (footprint 'KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal' not found).
+Error: Cannot add R114 (no footprint assigned).
+Error: Cannot add R50 (footprint 'KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R113 (no footprint assigned).
+Error: Cannot add R51 (footprint 'KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R111 (no footprint assigned).
+Error: Cannot add R52 (footprint 'KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R110 (no footprint assigned).
+Error: Cannot add R53 (footprint 'KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R109 (no footprint assigned).
+Error: Cannot add RAM_80_FF1 (no footprint assigned).
+Error: Cannot add R18 (no footprint assigned).
+Error: Cannot add ROM_20_1 (no footprint assigned).
+Error: Cannot add R19 (no footprint assigned).
+Error: Cannot add RN2 (no footprint assigned).
+Error: Cannot add R20 (no footprint assigned).
+Error: Cannot add RAM_CS-44_HH1 (no footprint assigned).
+Error: Cannot add R21 (no footprint assigned).
+Error: Cannot add RAM_CS-41_A->K_APP_CONN1 (no footprint assigned).
+Error: Cannot add R22 (no footprint assigned).
+Error: Cannot add R54 (footprint 'KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R23 (no footprint assigned).
+Error: Cannot add R1028 (no footprint assigned).
+Error: Cannot add R24 (no footprint assigned).
+Error: Cannot add R206 (footprint 'KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal' not found).
+Error: Cannot add R41 (no footprint assigned).
+Error: Cannot add R205 (footprint 'KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal' not found).
+Error: Cannot add R42 (no footprint assigned).
+Error: Cannot add R204 (footprint 'KIM-1_Library:R_Axial_DIN0309_3K3_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R43 (no footprint assigned).
+Error: Cannot add R75 (footprint 'KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal' not found).
+Error: Cannot add R96 (footprint 'KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R70 (footprint 'KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R94 (footprint 'KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R71 (footprint 'KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R93 (footprint 'KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R73 (footprint 'KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal' not found).
+Error: Cannot add R92 (footprint 'KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R74 (footprint 'KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal' not found).
+Error: Cannot add R91 (footprint 'Alius_6502:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' not found).
+Error: Cannot add R69 (no footprint assigned).
+Error: Cannot add R90 (footprint 'Alius_6502:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal' not found).
+Error: Cannot add R76 (footprint 'KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal' not found).
+Error: Cannot add R85 (no footprint assigned).
+Error: Cannot add R77 (no footprint assigned).
+Error: Cannot add R84 (no footprint assigned).
+Error: Cannot add R79 (no footprint assigned).
+Error: Cannot add R83 (no footprint assigned).
+Error: Cannot add R80 (no footprint assigned).
+Error: Cannot add R82 (no footprint assigned).
+Error: Cannot add R60 (no footprint assigned).
+Error: Cannot add R108 (no footprint assigned).
+Error: Cannot add R55 (footprint 'KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R107 (no footprint assigned).
+Error: Cannot add R56 (footprint 'KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R106 (no footprint assigned).
+Error: Cannot add R57 (footprint 'KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R105 (no footprint assigned).
+Error: Cannot add R58 (footprint 'KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal' not found).
+Error: Cannot add R104 (no footprint assigned).
+Error: Cannot add ROM_20_2 (no footprint assigned).
+Error: Cannot add R103 (no footprint assigned).
+Error: Cannot add R62 (no footprint assigned).
+Error: Cannot add R102 (no footprint assigned).
+Error: Cannot add R63 (no footprint assigned).
+Error: Cannot add R101 (no footprint assigned).
+Error: Cannot add R67 (no footprint assigned).
+Error: Cannot add R100 (no footprint assigned).
+Error: Cannot add R68 (no footprint assigned).
+Error: Cannot add R99 (no footprint assigned).
+Error: Cannot add K_S13 (no footprint assigned).
+Error: Cannot add KBD_F1 (no footprint assigned).
+Error: Cannot add KBD_GO1 (no footprint assigned).
+Error: Cannot add KBD_LOAD1 (no footprint assigned).
+Error: Cannot add KBD_MEM1 (no footprint assigned).
+Error: Cannot add KBD_REG1 (no footprint assigned).
+Error: Cannot add KBD_RST1 (no footprint assigned).
+Error: Cannot add KBD_RST2 (no footprint assigned).
+Error: Cannot add KBD_SAV1 (no footprint assigned).
+Error: Cannot add KBD_SHIFT1 (no footprint assigned).
+Error: Cannot add K_connector1 (no footprint assigned).
+Error: Cannot add KBD_E1 (no footprint assigned).
+Error: Cannot add L_S23 (no footprint assigned).
+Error: Cannot add MH32 (no footprint assigned).
+Error: Cannot add MH35 (no footprint assigned).
+Error: Cannot add U11 (no footprint assigned).
+Error: Cannot add MH36 (no footprint assigned).
+Error: Cannot add U10 (no footprint assigned).
+Error: Cannot add MH37 (no footprint assigned).
+Error: Cannot add U9 (footprint 'KIM-1_Library:DIP-14_W7.62mm' not found).
+Error: Cannot add MH38 (no footprint assigned).
+Error: Cannot add KBD_A1 (no footprint assigned).
+Error: Cannot add KBD_3 (no footprint assigned).
+Error: Cannot add KBD_4 (no footprint assigned).
+Error: Cannot add KBD_5 (no footprint assigned).
+Error: Cannot add KBD_6 (no footprint assigned).
+Error: Cannot add U26 (footprint 'KIM-1_Library:DIP-8_W7.62mm' not found).
+Error: Cannot add KBD_7 (no footprint assigned).
+Error: Cannot add KBD_8 (no footprint assigned).
+Error: Cannot add KBD_9 (no footprint assigned).
+Error: Cannot add U24 (no footprint assigned).
+Error: Cannot add U8 (no footprint assigned).
+Error: Cannot add KBD_ARROW1 (no footprint assigned).
+Error: Cannot add KBD_B1 (no footprint assigned).
+Error: Cannot add KBD_C1 (no footprint assigned).
+Error: Cannot add KBD_CR1 (no footprint assigned).
+Error: Cannot add KBD_D1 (no footprint assigned).
+Error: Cannot add KBD_DBG_OFF1 (no footprint assigned).
+Error: Cannot add KBD_DBG_OFF2 (no footprint assigned).
+Error: Cannot add KBD_DBG_ON1 (no footprint assigned).
+Error: Cannot add KBD_DBG_ON2 (no footprint assigned).
+Error: Cannot add ROM_RAM1 (no footprint assigned).
+Error: Cannot add R8 (no footprint assigned).
+Error: Cannot add S46 (no footprint assigned).
+Error: Cannot add R9 (no footprint assigned).
+Error: Cannot add S18 (no footprint assigned).
+Error: Cannot add R10 (no footprint assigned).
+Error: Cannot add S17 (no footprint assigned).
+Error: Cannot add R11 (no footprint assigned).
+Error: Cannot add ROM_S1 (no footprint assigned).
+Error: Cannot add R12 (no footprint assigned).
+Error: Cannot add S47 (no footprint assigned).
+Error: Cannot add R13 (no footprint assigned).
+Error: Cannot add ROM_R1 (no footprint assigned).
+Error: Cannot add R14 (no footprint assigned).
+Error: Cannot add ROM_P1 (no footprint assigned).
+Error: Cannot add R15 (no footprint assigned).
+Error: Cannot add ROM_N1 (no footprint assigned).
+Error: Cannot add R16 (no footprint assigned).
+Error: Cannot add ROM_20_3 (no footprint assigned).
+Error: Cannot add R17 (no footprint assigned).
+Error: Cannot add U3 (no footprint assigned).
+Error: Cannot add MH39 (no footprint assigned).
+Error: Cannot add U7 (no footprint assigned).
+Error: Cannot add MH40 (no footprint assigned).
+Error: Cannot add M_S33 (no footprint assigned).
+Error: Cannot add P4 (footprint 'KIM-1_Library:KIM_CONN' not found).
+Error: Cannot add P_connector1 (no footprint assigned).
+Error: Cannot add R1 (no footprint assigned).
+Error: Cannot add U4 (no footprint assigned).
+Error: Cannot add R2 (no footprint assigned).
+Error: Cannot add R81 (no footprint assigned).
+Error: Cannot add R3 (no footprint assigned).
+Error: Cannot add U2 (footprint 'KIM-1_Library:DIP-14_W7.62mm' not found).
+Error: Cannot add R4 (no footprint assigned).
+Error: Cannot add U1 (no footprint assigned).
+Error: Cannot add R5 (no footprint assigned).
+Error: Cannot add T_CONN1 (no footprint assigned).
+Error: Cannot add R6 (no footprint assigned).
+Error: Cannot add SP-1 (no footprint assigned).
+Error: Cannot add R7 (no footprint assigned).
+
+
+Info: Total warnings: 120, errors: 324.
