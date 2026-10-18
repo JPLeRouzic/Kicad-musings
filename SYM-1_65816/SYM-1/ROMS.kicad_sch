@@ -5258,12 +5258,12 @@
 		(uuid "010c18a2-e51b-4754-8319-0ebf17727768")
 	)
 	(no_connect
-		(at 242.57 144.78)
-		(uuid "1bd9d7d0-1219-456e-84b7-284a34fc3380")
-	)
-	(no_connect
 		(at 213.36 175.26)
 		(uuid "3ceda04d-2ca6-40b9-a54c-ce5d53eded45")
+	)
+	(no_connect
+		(at 242.57 144.78)
+		(uuid "4fbbb53d-2ec5-44b2-8bbe-f868c39e76f9")
 	)
 	(no_connect
 		(at 242.57 175.26)
@@ -7293,6 +7293,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 144.78) (xy 242.57 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "582c4ca1-ef9d-4503-b31f-1150dee85751")
+	)
+	(wire
+		(pts
 			(xy 199.39 198.12) (xy 199.39 205.74)
 		)
 		(stroke
@@ -8160,16 +8170,6 @@
 			(type default)
 		)
 		(uuid "8b427ec9-1be5-4fa2-a856-2795cfd135ad")
-	)
-	(wire
-		(pts
-			(xy 228.6 144.78) (xy 242.57 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bf7dfde-cf22-404b-a754-264855dd7507")
 	)
 	(wire
 		(pts
@@ -11313,7 +11313,7 @@
 		)
 		(uuid "1f519f43-ad63-4c17-8960-0724eda49042")
 	)
-	(hierarchical_label "~{higher_64K}"
+	(hierarchical_label "~{Higher_64K}"
 		(shape input)
 		(at 107.95 187.96 180)
 		(effects
@@ -11324,7 +11324,7 @@
 		)
 		(uuid "29f208f1-7107-453b-a4e7-43a1a5441fd8")
 	)
-	(hierarchical_label "higher_64K"
+	(hierarchical_label "Higher_64K"
 		(shape input)
 		(at 31.75 118.11 180)
 		(effects

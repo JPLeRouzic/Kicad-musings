@@ -661,7 +661,7 @@
         "uuid": "12882ae0-ee92-4cfd-99ea-b49ca74b2a9a"
       }
     ],
-    "used_designators": "A_SO2,#PWR62,#PWR70,RAM_80_FF1,ROM_RAM1,R19-24",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
