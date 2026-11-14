@@ -1,0 +1,358 @@
+Info: Processing symbol 'R139:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R147:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R146:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R145:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R144:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R143:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R142:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R141:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R140:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R148:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R138:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R137:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R136:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R135:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R134:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R133:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R132:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R131:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R157:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R165:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R164:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R163:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R162:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R161:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R160:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R159:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R158:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R130:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R156:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R155:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R154:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R153:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R152:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R151:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R150:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R149:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R103:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R111:'.
+Info: Processing symbol 'R110:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R109:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R108:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R107:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R106:'.
+Info: Processing symbol 'R105:'.
+Info: Processing symbol 'R104:'.
+Info: Processing symbol 'R112:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R102:'.
+Info: Processing symbol 'R101:KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal'.
+Info: Processing symbol 'R100:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R99:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R98:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R97:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R96:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R95:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R121:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R129:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R128:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R127:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R126:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R125:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R124:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R123:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R122:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R166:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'C1:KIM-1_Library:C_Disc_D9.0mm_W2.5mm_P13.00mm'.
+Info: Processing symbol 'R119:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R118:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R117:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R116:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R115:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R114:'.
+Info: Processing symbol 'R113:'.
+Info: Processing symbol 'U2:KIM-1_Library:DIP-14_W7.62mm'.
+Info: Processing symbol 'U21:Package_DIP:DIP-28_W15.24mm'.
+Info: Processing symbol 'U20:Package_DIP:DIP-28_W15.24mm'.
+Info: Processing symbol 'U15:KIM-1_Library:DIP-14_W7.62mm'.
+Info: Processing symbol 'U10:Package_DIP:DIP-16_W7.62mm_LongPads'.
+Info: Processing symbol 'U7:Package_DIP:DIP-16_W7.62mm_LongPads'.
+Info: Processing symbol 'U6:KIM-1_Library:DIP-14_W7.62mm'.
+Info: Processing symbol 'U5:Package_DIP:DIP-40_W15.24mm'.
+Info: Processing symbol 'U4:Package_DIP:DIP-16_W7.62mm'.
+Info: Processing symbol 'U22:Package_DIP:DIP-28_W15.24mm'.
+Info: Processing symbol 'U1:Package_DIP:DIP-16_W7.62mm_LongPads'.
+Info: Processing symbol 'SW_UD1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_SFT1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_SAV1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_RST1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_REG1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_ON1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_OFF1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'U32:Display_7Segment:MAN72A'.
+Info: Total warnings: 0, errors: 12.
+Info: Processing symbol 'Y1:Crystal:Crystal_HC33-U_Horizontal'.
+Info: Processing symbol 'U60:KIM-1_Library:DIP-14_W7.62mm'.
+Info: Processing symbol 'U38:'.
+Info: Processing symbol 'U36:Display_7Segment:MAN72A'.
+Info: Processing symbol 'U35:Display_7Segment:MAN72A'.
+Info: Processing symbol 'U34:Display_7Segment:MAN72A'.
+Info: Processing symbol 'U33:Display_7Segment:MAN72A'.
+Info: Processing symbol 'SW_LR1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'U31:Display_7Segment:MAN72A'.
+Info: Processing symbol 'U30:KIM-1_Library:DIP-14_W7.62mm_U17'.
+Info: Processing symbol 'U29:Package_DIP:DIP-40_W15.24mm'.
+Info: Processing symbol 'U28:Package_DIP:DIP-40_W15.24mm'.
+Info: Processing symbol 'U27:Package_DIP:DIP-40_W15.24mm'.
+Info: Processing symbol 'U26:KIM-1_Library:DIP-8_W7.62mm'.
+Info: Processing symbol 'U25:Package_DIP:DIP-40_W15.24mm'.
+Info: Processing symbol 'U23:Package_DIP:DIP-28_W15.24mm'.
+Info: Processing symbol 'R205:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'SW_1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_0:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'RN2:'.
+Info: Processing symbol 'R500:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R211:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R210:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R207:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R206:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'SW_2:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'R204:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R203:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R202:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R201:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R200:KIM-1_Library:R_Axial_DIN0207_330K_L6.3mm_D2.3mm_P13mm_Horizontal'.
+Info: Processing symbol 'R169:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R168:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R167:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'SW_AMEM1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_LD1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_GO1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_F1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_E1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_D1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_CR1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_C1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_B1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'R120:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'SW_A1:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_9:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_8:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_7:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_6:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_5:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_4:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'SW_3:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R10:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R9:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R8:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R94:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R4:KIM-1_Library:R_Axial_DIN0309_3K3_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R11:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'Q100:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q29:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q25:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q24:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q23:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q22:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q21:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q20:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R20:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R29:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R28:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R27:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R26:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R25:KIM-1_Library:R_Axial_DIN0309_47K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R24:KIM-1_Library:R_Axial_DIN0309_47K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R23:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R22:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R21:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'Q19:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R19:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R18:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R17:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R16:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R15:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R14:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R13:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R12:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'C30:KIM-1_Library:CP_Axial_L11.0mm_D5.0mm_P22.86mm_Horizontal'.
+Info: Processing symbol 'CR33:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'CR29:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR28:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR15:KIM-1_Library:D_DO-41_SOD81_P12.30mm_Horizontal'.
+Info: Processing symbol 'CR10:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'CR9:Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal'.
+Info: Processing symbol 'CR8:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR2:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'CR1:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'D1:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'C20:KIM-1_Library:C_Axial_L17.0mm_D6.5mm_P43.18mm_Horizontal'.
+Info: Processing symbol 'C19:KIM-1_Library:CP_Axial_L11.0mm_D5.0mm_P22.86mm_Horizontal'.
+Info: Processing symbol 'C18:KIM-1_Library:C_Disc_D9.0mm_W2.5mm_P13.00mm'.
+Info: Processing symbol 'C17:KIM-1_Library:C_Disc_D9.0mm_W2.5mm_P13.00mm'.
+Info: Processing symbol 'C15:KIM-1_Library:C_Disc_D9.0mm_W2.5mm_P13.00mm'.
+Info: Processing symbol 'C9:KIM-1_Library:C_Disc_D9.0mm_W2.5mm_P13.00mm'.
+Info: Processing symbol 'C3:KIM-1_Library:C_Axial_L17.0mm_D6.5mm_P38.10mm_Horizontal'.
+Info: Processing symbol 'C2:KIM-1_Library:C_Axial_L17.0mm_D6.5mm_P38.10mm_Horizontal'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q18:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q17:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q10:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q9:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q6:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q4:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q3:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'Q2:Package_TO_SOT_THT:TO-92_Inline'.
+Info: Processing symbol 'R7:KIM-1_Library:R_Axial_DIN0309_10K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'P3:KIM-1_Library:KIM_CONN'.
+Info: Processing symbol 'P2:KIM-1_Library:KIM_CONN'.
+Info: Processing symbol 'P1:KIM-1_Library:KIM_CONN'.
+Info: Processing symbol 'J4:Connector_Hirose:Hirose_DF13-08P-1.25DS_1x08_P1.25mm_Horizontal'.
+Info: Processing symbol 'J1:'.
+Info: Processing symbol 'D4:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'D3:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'R62:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R72:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R71:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R70:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R69:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R68:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R67:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R66:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R65:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R64:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R63:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R73:KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal'.
+Info: Processing symbol 'R61:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R60:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R59:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R58:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R57:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R56:KIM-1_Library:R_Axial_DIN0309_100R_L6.3mm_D2.5mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R55:KIM-1_Library:R_Axial_DIN0309_1K_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R54:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R53:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R83:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R93:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R92:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R91:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R90:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R89:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R88:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R87:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R86:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R85:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R84:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R31:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R82:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R81:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R80:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R79:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R78:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R77:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R76:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R75:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R74:KIM-1_Library:R_Axial_DIN0207_3K3_L6.3mm_D2.3mm_P13mm_Horizontal'.
+Info: Processing symbol 'R30:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R48:'.
+Info: Processing symbol 'R49:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R47:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R50:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R46:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R45:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R44_1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R44:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R43_1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R43:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R42:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R51:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R41:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R39:KIM-1_Library:R_Axial_DIN0309_560R_L6.3mm_D2.3mm_P8.70mm_Horizontal'.
+Info: Processing symbol 'R32:'.
+Info: Processing symbol 'R40:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R33:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R52:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R34:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical'.
+Info: Processing symbol 'R35:KIM-1_Library:R_Axial_DIN0309_560R_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R36:KIM-1_Library:R_Axial_DIN0309_560R_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R37:KIM-1_Library:R_Axial_DIN0309_560R_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Info: Processing symbol 'R38:KIM-1_Library:R_Axial_DIN0309_560R_L6.3mm_D2.3mm_P12.70mm_Horizontal'.
+Updated SW_OFF1 fields.
+Updated SW_1 fields.
+Changed SW_ON1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_6 fields.
+Changed SW_1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Changed SW_REG1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_REG1 fields.
+Updated SW_ON1 fields.
+Changed SW_RST1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_RST1 fields.
+
+Updated SW_0 fields.
+Changed SW_SAV1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_SAV1 fields.
+Changed SW_0 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Changed SW_SFT1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_SFT1 fields.
+
+Changed SW_UD1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_UD1 fields.
+Updated SW_AMEM1 fields.
+Changed SW_8 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Changed SW_CR1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Changed SW_4 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Changed SW_OFF1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_C1 fields.
+Changed SW_C1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_4 fields.
+Updated SW_B1 fields.
+Changed SW_B1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Changed SW_6 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_8 fields.
+Changed SW_AMEM1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Changed SW_9 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Changed SW_5 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_A1 fields.
+Updated SW_9 fields.
+Changed SW_A1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_5 fields.
+Updated SW_F1 fields.
+Changed SW_7 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_LR1 fields.
+Changed SW_LR1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Changed SW_2 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_LD1 fields.
+Changed SW_LD1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_2 fields.
+Updated SW_GO1 fields.
+Changed SW_GO1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_7 fields.
+Changed SW_F1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Changed SW_3 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_E1 fields.
+Changed SW_E1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_3 fields.
+Updated SW_D1 fields.
+Changed SW_D1 footprint from 'Button_Switch_THT:SW_PUSH-12mm' to 'Button_Switch_THT:SW_PUSH_6mm'.
+Updated SW_CR1 fields.
+Error: Cannot add U38 (no footprint assigned).
+Error: Cannot add R32 (no footprint assigned).
+Error: Cannot add R111 (no footprint assigned).
+Error: Cannot add R102 (no footprint assigned).
+Error: Cannot add R104 (no footprint assigned).
+Error: Cannot add R105 (no footprint assigned).
+Error: Cannot add R106 (no footprint assigned).
+Error: Cannot add J1 (no footprint assigned).
+Error: Cannot add R113 (no footprint assigned).
+Error: Cannot add RN2 (no footprint assigned).
+Error: Cannot add R114 (no footprint assigned).
+Error: Cannot add R48 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 12.
